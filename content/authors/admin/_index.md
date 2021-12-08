@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=9HG85IsAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
@@ -40,5 +40,3 @@ title: Filip Obradović
 email: ""
 ---
 I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research focuses on econometrics, medical econometrics, applied microeconometrics, and statistical decision theory.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
