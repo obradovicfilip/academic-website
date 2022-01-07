@@ -1,0 +1,23 @@
+# Theme metadata
+name = "my_theme_blue"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1565c0"
+
+# Menu
+menu_primary = "#1864c4"
+menu_text = "#000000"
+menu_text_active = "#a6a6a6"
+menu_title = "#000000"
+
+# Links
+link = "#1864c4"
+link_hover = "#a6a6a6"
+link_decoration = "underline"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
