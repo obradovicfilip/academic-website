@@ -5,16 +5,16 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#502c84"
+primary = "#582c84"
 
 # Menu
-menu_primary = "#502c84"
+menu_primary = "#582c84"
 menu_text = "#ffffff"
 menu_text_active = "#a6a6a6"
 menu_title = "#ffffff"
 
 # Links
-link = "#502c84"
+link = "#582c84"
 link_hover = "#a6a6a6"
 link_decoration = "underline"
 
