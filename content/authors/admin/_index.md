@@ -41,4 +41,4 @@ highlight_name: true
 title: Filip Obradović
 email: ""
 ---
-I am a third year economics Ph.D. student at Northwestern University. My primary interests lie in econometrics, with emphasis on identification and inference. In my work, I utilize the latest developments in theoretical econometrics to improve medical, health, and applied economics research.
+I am a third year economics Ph.D. student at Northwestern University. My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I utilize the latest developments in theoretical econometrics to improve medical, health, and applied economics research.
