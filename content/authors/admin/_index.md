@@ -1,5 +1,5 @@
 ---
-role: Economics Ph.D. Candidate
+role: Economics Ph.D. Student (thanks Ivan)
 bio: Econometrics
 interests:
   - Econometrics
