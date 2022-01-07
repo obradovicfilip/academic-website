@@ -19,9 +19,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
