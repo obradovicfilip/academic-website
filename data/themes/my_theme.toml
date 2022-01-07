@@ -10,12 +10,12 @@ primary = "#1565c0"
 # Menu
 menu_primary = "#502c84"
 menu_text = "#ffffff"
-menu_text_active = "#cfcfcf"
+menu_text_active = "#a6a6a6"
 menu_title = "#ffffff"
 
 # Links
 link = "#502c84"
-link_hover = "#cfcfcf"
+link_hover = "#a6a6a6"
 link_decoration = "underline"
 
 # Home sections
