@@ -5,16 +5,16 @@ name = "my_theme_blue"
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "#0052b9"
 
 # Menu
-menu_primary = "#1864c4"
-menu_text = "#000000"
+menu_primary = "#0052b9"
+menu_text = "#ffffff"
 menu_text_active = "#a6a6a6"
-menu_title = "#000000"
+menu_title = "#ffffff"
 
 # Links
-link = "#1864c4"
+link = "#0052b9"
 link_hover = "#a6a6a6"
 link_decoration = "underline"
 
