@@ -32,7 +32,7 @@ education:
       year: 2019
     - course: M.Sc. Economics
       institution: University of Belgrade
-      year: 2017
+      year: 2018
     - course: B.Sc. Economics
       institution: University of Belgrade
       year: 2015
