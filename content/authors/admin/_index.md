@@ -30,7 +30,7 @@ education:
     - course: M.Sc. Quantitative Finance
       institution: University of Belgrade
       year: 2019
-    - course: M.Sc. Economics
+    - course: M.Sc. Econometrics
       institution: University of Belgrade
       year: 2018
     - course: B.Sc. Economics
