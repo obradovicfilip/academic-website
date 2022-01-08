@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Working Papers
 subtitle: ''
@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - working_papers
+      - work_in_progress
     tag: ''
     category: ''
     publication_type: ''
@@ -32,6 +32,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: compact
+  view: citation
   columns: '2'
 ---
