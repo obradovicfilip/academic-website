@@ -1,6 +1,6 @@
 ---
 role: Economics Ph.D. Student
-bio: Econometrics
+bio: Econometrics, applied and medical econometrics
 interests:
   - Econometrics
   - Applied Econometrics
@@ -21,9 +21,7 @@ organizations:
     url: https://economics.northwestern.edu/
 education:
   courses:
-    - icon: envelope
-      icon_pack: fas
-      course: Ph.D. Economics
+    - course: Ph.D. Economics
       institution: Northwestern University
       year: in progress
     - course: M.A. Economics
