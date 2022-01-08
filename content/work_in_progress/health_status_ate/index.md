@@ -1,6 +1,9 @@
 ---
 title: "Identification and Estimation of Average Treatment Effects on Health Status in RCTs"
-summary: "Filip Obradović \n\n Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials.  "
+summary: "Filip Obradović \n\n Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials."
+
+date: "2022-01-08T00:00:00Z"
+lastmod: "2022-01-08T00:00:00Z"
 
 Type: work_in_progress
 
