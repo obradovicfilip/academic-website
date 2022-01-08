@@ -1,6 +1,6 @@
 ---
-title: Managing publications on your Hugo Academic website
-author: Emmanuel Teitelbaum
+title: Ko su ekonomisti?
+author: admin
 date: '2021-01-29'
 slug: managing-pubs-Academic-website
 categories: [hugo academic, blogdown]
@@ -17,40 +17,56 @@ projects: []
 draft: FALSE
 ---
 
-For my first blog post, I thought I would say a little bit about how I set up the publications section of my website. There are a good many tutorials out there on how to set up a website using blogdown and the Hugo Academic theme (my favorite guide is [this one](https://alison.rbind.io/post/new-year-new-blogdown/)  by Alison Hill). But I found less information on how to manage academic content, so I thought it might be helpful to share what I learned. 
+Kod nas postoji određena nejasnoća vezana za to čime se tačno bave ekonomisti sa doktoratom, zašto i da li razmišljati o doktoratu iz ekonomije i šta možete da očekujete u dugom roku. Lično me je mučio isti problem i nisam imao nikoga ko bi mi pomogao da razjasnim odgovore na ta pitanja. Kada ne znate šta tačno tražite, teško je pronaći prave informacije u razumnom roku, iako su često lako dostupne. Kako sam odlučio da se bavim ekonomijom bez jasne vizije u šta se upuštam, voleo bih, za početak, da bliže pojasnimo šta biste mogli očekivati nakon doktorata iz ove oblasti ili finansija. Tekst ću pisati iz perspektive studenta u SAD i ne mora nužno biti reprezentativan za ostale delove sveta.
 
-**Note**: Everything I am about to review was done using Hugo version 0.80.0 and blogdown version 0.21.80.   
+## Ko su ekonomisti?
 
-## Step 1: Import your publications
+Prvo moramo definisati šta zapravo znači biti ekonomista. Nažalost, pitanje definicije je kontroverzno i ne bih mogao sa sigurnošću da tvrdim da konsenzus postoji. Za početak, ekonomista u Srbiji je vrlo širok pojam. U nedostatku precizne široko prihvaćene nomenklature, mi u ekonomiste ubiramo računovođe, revizore, makroekonomiste, ekonometričare, stručnjake za marketing i slično. Za prosečnu osobu našeg podneblja, ekonomista je najpre neko ko se bavi računovodstvom, revizijom ili bankarstvom. 
+Iako to nije u potpunosti u skladu sa uvreženim shvatanjem na globalnom nivou, nije i neočekivano na nivou naše zemlje. Vodeće škole u svetu imaju razdvojene departmane za ekonomiju, biznis i javne politike, doprinevši donekle jasnijoj demarkaciji zanimanja, što je umnogome različito od onoga što se dešava u srpskom obrazovnom sistemu. Programi poput osnovnih studija iz oblasti poslovne administracije ili MBA studija, nakon kojih često sledi zaposlenje u tri pomenute branše, su u okviru biznis škola i ne spadaju u domen ekonomije, te se njihovi diplomci obično ne smatraju ekonomistima već računovođama, revizorima, bankarima, menadžerima, i slično.
 
-The first step is to import your publications from your reference manager to your `content\publication` folder. Currently, there is no tool in blogdown to help with this, so I used the Python-based [Academic CLI](https://github.com/wowchemy/hugo-academic-cli) tool described in the [Wowchemy documentation](https://wowchemy.com/docs/content/publications/). Conveniently, you can opt to install an earlier version of the tool if you don't want to run it through Hugo in Python.  
+Ekonomistima u širem smislu se smatraju ljudi koji su završili makar master studije iz oblasti ekonomije, finansija i javnih politika (public policy). To dovodi do daljih komplikacija, jer upravo biznis škole često imaju svoje programe iz ekonomije i finansija, što znači da možete biti ekonomista iako ste njihov diplomac, uprkos tome što većina njihovih studenata nisu ekonomisti. No, kao što postoji sijaset definicija za ekonomiju, i ekonomisti se moraju pomiriti sa tim da će deliti istu sudbinu kao i njihova nauka. Ono što je sigurno jeste da ukoliko svoje postdiplomske studije završite na programu koji se zove Economics, Finance ili Public Policy, tržište rada će vas smatrati ekonomistom i ovo je definicija na koju ću se ja fokusirati.
 
-## Step 2: Dress up your publications
+## Čime se ekonomisti bave?
 
-Now you can go to the `publication` folder and edit the individual publications. You can edit the basic info in the `index.md` file such as the title, author or publication type and add links to relevant external or local content such as a .pdf, appendix or replication materials. Hugo offers some standard links such as `url_pdf` and `url_code`, but you can also include custom links. Here is an example: 
+Sada kada smo suzili definiciju ekonomiste, čini se da će biti lako i definisati čime se tačno oni bave. Kao što možete pretpostaviti, odgovor ni na to pitanje neće biti jednostavan. Iako pomalo paradoksalno, ovaj put je to ipak pozitivna stvar. Gotovo svi koji su primljeni na vodeće doktorate iz ovih oblasti na njih ulaze sa predubeđenjem da će nakon završetka postati profesori, iako to veoma često nije slučaj. Gruba dihotomija koju možemo napraviti je ona na ekonomiste koji će svoju karijeru početi u akademiji ili u privredi. Sjajno je to što u koju god grupu da spadate, možete očekivati izuzetno intelektualno stimulativne i izazovne poslove koji su pri tome neretko lukrativni.
 
+## Čime se bave akademski ekonomisti?
 
-Another nice touch is to add a `featured.jpg` by including it in the publication's folder. This can be a picture of your book cover, the cover of the journal where you published your article or some other related image. You can also set it up so that the image only appears in the preview on the homepage, and not after you click on the publication, like this: ``
+Čime god požele! Upravo ovo je draž koja privlači značajnu većinu diplomaca na studije iz ekonomije. Slobodno možete pretpostaviti da su gotovo svi doktorandi na najbolje rangiranim školama ušli na program uvereni da žele da rade u akademiji. Akademski posao vam omogućava potpunu slobodu da se bavite bilo kojom temom ukoliko će to dovesti do značajnih publikacija. Primera radi, to mogu biti istraživanjia metodologije merenja performansi medicinskih dijagnostičkih testova, tržišta rada u nerazvijenim afričkim zemljama, uticaja monetarnih politika na kretanje finansijskih tržišta, efekata monetarne kompenzacije na opštu vakcinaciju ili slobode medija u autoritarnim režimima. O podgranama u ekonomiji ću pisati drugom prilikom, ali dobro je znati da ste potpuno slobodni da menjate svoja interesovanja ukoliko želite, bilo tokom studija, bilo kasnije u karijeri.
 
-## Step 3: Use "featured" widgets to set up separate sections
+Ekonomija kao nauka još uvek uživa veliku premiju u odnosu na druge, i iako je očekivano da ta prednost nestaje vremenom jer su tržišta efikasna (ili bar neki tako tvrde), nije kasno da se profitira od nje. Jedan od zanimljivih tekstova na ovu temu jeste [ovaj](https://qz.com/.../a-phd-in-economics-is-the-only-one.../) koji je napisao Noah Smith, bivši profesor finansija i trenutni kolumnista u Blumbergu.
 
-You can make creative use of the "featured" widgets to set up separate sections for your publications. In my case I wanted a section for books, one for journal articles and one for working papers. 
+Ukratko, ekonomija je jedna od retkih oblasti u kojoj odmah nakon završetka studija možete da postanete Assistant professor (ekvivalent docenta) bez prethodnog post doc-a. Pored toga, kompenzacija koju akademski ekonomisti u SAD dobijaju za svoj rad daleko prevazilazi proseke u drugim naukama. Američka ekonomska asocijacija beleži da je prosečna godišnja zarada na ovoj poziciji na istraživačkim univerzitetima u 2020-21. godini bila 138,091 dolara. Naravno, u zavisnosti od ranga institucije, ovaj iznos ume prilično da varira, ali i prosek moze biti informativan. Celu publikaciju možete naći [ovde](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.111.647).
 
-In the `content\home` folder, I made a copy of `featured.md` and named it `working-papers.md`. I then renamed the original `featured.md` to `books.md`.  
+## Čime se bave ekonomisti u industriji?
 
-From there, I opened `books.md`, set `weight:` to `20`, changed the `title:` to `Book` and set `filters: publication_type:` to `"5"`. 
+Pomenuo sam da gotovo svi doktorandi studije počinju verujući da će biti profesori, ali realnost je da većina njih (nas) to neće postati. Akademija u inostranstvu je vanredno kompetitivna i stresna, i uprkos tome što nudi izuzetne uslove života, traži i bezrezervnu posvećenost pogotovu na samom vrhu. Iz tog razloga, mnogi doktori svojevoljno ili protiv svoje volje poslove nalaze u industriji. Ali ovo je iznenađujuće dobar ishod!
 
-Next, I opened the new `working-papers.md` file, set `weight:` to `30`, changed `title:` to `Working Papers` and set `filters: publication_type:` to  `"3"`.
+Nakon studija, zaposlenje ih obično čeka u kompanijama kao što su Amazon, Facebook, Microsoft, Uber, konsultantskim kućama poput McKinsey-a, Analysis Group-a, Cornerstone Research-a, investicionim bankama i fondovima uključujući Vanguard, Goldman Sachs, Barclays Capital, ili u institucijama kao što su FED, World Bank, IMF, RAND i slično. Stopa nezaposlenosti doktora ekonomije odmah nakon diplomiranja teži nuli i većina poslova koje dobiju su vrlo primamljivi i izazovni. Pored toga, nepisano pravilo je da su naknade ekonomista u industriji značajno veće od onih u akademiji, te se neretko dešava da profesori ekonomije napuštaju svoja mesta zbog još boljih uslova ili drugačijih izazova. Primeri su [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) i svima dobro poznati [Hal Varian](https://people.ischool.berkeley.edu/~hal/) koji su na vrhuncu svojih akademskih karijera prešli u Microsoft i Google.
 
-Then I renamed `publications.md` to `articles.md`, opened the file, set `weight:` to `25`, `title:` to  `Journal Articles` and set `exclude_featured:` to `true`. This ensures that the books and working papers that I want to include in the "featured" widgets do not also appear in my "Journal Articles" section. 
+Za više informacija na sajtu skoro svakog programa iz ekonomije i finansija možete naći stranicu koja navodi sva radna mesta koja su njihovi alumni dobili odmah nakon doktorata. Primera radi, na mom univerzitetu to izgleda [ovako](https://economics.northwestern.edu/.../pro.../placement.html).
 
-Finally, I set `featured:` to `true` in the `index.md` files for my book and working papers in `content\publication` to populate the new "Book" and "Working Papers" featured widgets. 
+## Zašto su ekonomisti potrebni Facebook-u i Uber-u?
 
-This gives me three consecutive sections listing my book, journal articles and working papers. 
+Gorepomenute nejasnoće oko toga ko su ekonomisti impliciraju da njihova radna mesta mogu zvučati neočekivano. Oni se bave svim vrstama istraživanja socijalnih ili srodnih fenomena i posledično time kako svako od nas reaguje na neke promene ili podsticaje u okruženju. Da li vam se nekada desilo da udjete na svoj Facebook profil i da on naprasno izgleda potpuno drugačije nego pre ili kao kod vašeg poznanika/ce? Ukoliko je odgovor da, budite uvereni da ste učestvovali u eksperimentu koji su sprovodili ekonomisti u Facebooku gde su je meren uticaj promene interfejsa ili dodavanja opcija na vaše ponašanje. Vi ste bili u **tretiranoj** grupi, dok je osoba sa kojom ste poredili profil bila u **kontrolnoj** grupi. Kompaniju zanima da li će novi dizajn dovesti do češće interakcije sa reklamama, više provedenog vremena na platformi ili više interakcije sa drugim osobama, a ekonomisti su ti koji su obučeni da traže odgovore na ta pitanja. 
 
-## Step 4: Add more publications
+S druge strane, ako ste se nekada vozili Uberom, možda ste primetili da se cena razlikuje u zavisnosti od doba dana, smera putovanja ili vremenske prognoze. Ponovo, ekonomisti su ti koji prave sistem tako da maksimiziraju profit kompanije u zavisnosti od ponude vozila i tražnje za vožnjama i drugih uslova koji definišu tržište u trenutku kada postavite zahtev za vožnju. Možda ste smanjili broj vožnji i potrebno je da vam ponovo stvore naviku da korstite Uber? Ekonomista će se truditi da napravi što bolji model koji će predvideti optimalno vreme slanja vaučer za popust sa ograničenim trajanjem tako da stvori podsticaj da ponovo postanete mušterija. Ukoliko koristite CarGo, primetićete i da cena na toj aplikaciji ne varira ni izbliza kao na Uberu kao da ni kuponi za jeftinije vožnje nisu tako česti. Mi jednostavno ne raspolažemo sa dovoljno obučenih ekonomista koji bi mogli da doprinesu takvim promenama njihovom poslovanju.
 
-The easiest way to add new publications is to use the Academic CLI tool discussed in step one and a new `.bib` file.
+Iz ova dva jednostavna primera postaje jasno zašto je za zvanje ekonomiste često podrazumevana makar diploma mastera, a uglavnom i doktorat. Nakon osnovnih studija, jednostavno nemamo **dovoljno znanja** da bismo uspešno vršili ovakva istraživanja.
 
-Theoretically, there should also be a way to generate a new publication directly in R Markdown using the `blogdown::hugo::new_content` wrapper, but I have not figured out how to make it work. I have posted [a query](https://stackoverflow.com/questions/66057149/how-to-add-a-new-publication-to-a-blogdown-academic-themed-website) about this on stack overflow in case anyone has a clue.  
+## Konstantno se pominju vodeće institucije, šta one zapravo podrazumevaju?
 
+Verovali ili ne, ni oko ovog pitanja ne postoji konsenzus. Moglo bi se zaključiti da ekonomisti ne vole da se slažu jedni sa drugima, i to verovatno ne bi bilo daleko od istine. Iz perspektive američkih škola rangiranje je usaglašeno i većina ekonomista će se složiti (ko bi rekao?) da su programi koji su u 10 najboljih u SAD sledeći:
+
+1. MIT, Harvard, Stanford, Princeton, Yale, UC Berkeley (nerešeno)
+7. Chicago, Northwestern (nerešeno)
+9. Columbia
+10. UPenn 
+
+Ovo je deo rangiranja **doktorskih programa** iz ekonomije koje pravi [USNews](https://www.usnews.com/.../top.../economics-rankings) i koje se najčešće uzima kao relevantno za SAD, ali ne uključuje ostale škole koje mogu biti sjajne. Na primer, ne postoji slaganje oko toga gde bi se na ovoj listi našao LSE, ali svi će se složiti da je sigurno negde između 1-15. mesta. Bitno je naglasiti da se šangajska lista za koju često čujete kod nas ne koristi kao relevantno merilo i da ne postoji najbolja globalna lista za poređenje, kao i da većina lista zapravo rangira departmane, ali **ne i doktorske programe** što bi vas trebalo da interesuje. Na kraju krajeva, najbitnije je gde ćete se vi osećati prijatno i gde ćete biti produktivni. Mada rang često ume da bude korelisan sa tim merilom, on definitivno nije sve i o izboru škola nakon prijema će biti više reči kasnije.
+
+## Ovo sve sjano zvuči, ali zašto onda svi ne idu na ekonomiju?
+
+Nažalost, nema besplatnog ručka i zbog gorepomenutih činjenica, broj aplikanata na ekonomske programe se gotovo **udesetostručio** u poslednjih 15 godina uz skoro nepromenjene veličine ulaznih klasa. Kao posledicu ovo ima da odnos broja prijavljenih studenata i slobodnih mesta daleko prevazilazi uobičajene vrednosti koje se sreću u drugim naukama. Na doktorske studije u Americi zbog toga nije lako biti primljen, ali anegdotalno znamo da to svakako nije nemoguće. Pripreme manje-više traju od početka vaših studija jer će komisije evaluirati kompletan profil kandidata, uključujući koje je kurseve slušao/la i sa kojim ocenama su ti ispiti završeni, kakvo istraživačko iskustvo ima (research assistant pozicije, diplomski i master radovi, naučni radovi), kakav mu/joj je rezultat na standardizovanim testovima poput GRE i GMAT, kakav potencijal pokazuje za uspeh u njihovom programu i slično. Srpskih studenata na doktoratima iz ovih oblasti ima nesrazmerno manje per capita od njihovih vršnjaka iz drugih zemalja poput Perua, Čilea i Italije. Jedan od glavnih razloga za to je naša neinformisanost vezano za ovaj tip studija, šta on nudi i šta zahteva. Dugoročna vizija grupe naših doktoranada jeste da ispravimo tu anomaliju i da pružimo mogućnost visokomotivisanim mladim koleginicama i kolegama da se efikasnije pripreme za doktorat i povećaju svoje šanse za uspeh ukoliko je to put koji izaberu.
+
+Možete stupiti u kontakt sa srpskim studentima na doktorskim studijama u inostranstvu putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
