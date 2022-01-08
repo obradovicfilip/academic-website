@@ -21,4 +21,6 @@ main:
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
-
+  - name: Blog (Serbian)
+    url: '/post'
+    weight: 60
