@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Work in Progress
+title: Working Papers
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - work_in_progress
+      - working_papers
     tag: ''
     category: ''
     publication_type: ''
@@ -32,6 +32,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compact
   columns: '2'
 ---
