@@ -3,10 +3,7 @@ title: "Sensitivity and Specificity Measurement Using an Imperfect Gold Standard
 # summary: ""
 
 tags:
-- Scoring design
-- Policy design
-- Health
-date: "2016-04-27T00:00:00Z"
+date: "2022-01-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 share: false
