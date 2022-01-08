@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-This blog will mostly be used to make access to information about Ph.D. studies more equitable. If you are asking "Why the obscure language?", please click [here](https://filipobradovic.com/post/why-the-strange-language/).
+This blog will mostly be used to make access to information about Ph.D. studies more equitable. If you are wondering about the obscure language, please click [here](https://filipobradovic.com/post/why-the-strange-language/).
