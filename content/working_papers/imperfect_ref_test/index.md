@@ -1,6 +1,6 @@
 ---
-title: "Quality Disclosure and Regulation: Scoring Design in Medicare Advantage"
-summary: " **Job Market Paper** \n\n What makes a good quality score and how do we go about designing one?"
+title: "Sensitivity and Specificity Measurement Using an Imperfect Gold Standard: Identification and Inference"
+# summary: ""
 
 tags:
 - Scoring design
@@ -32,7 +32,7 @@ url_video: ""
 # slides: example
 ---
 
-Regulators often generate quality scores to help consumers with limited information about product quality, as in schooling, healthcare, and financial markets. When designing scores, regulators must not only anticipate how they will influence consumer choices but also the resulting impact on firms' incentives to invest in quality. In this work, I draw on theoretical insights,  econometric strategies, and computational methods to develop an empirical scoring design methodology. I apply it to a large health insurance market and find an alternative policy which vastly improves the market's performance. The new design coarsens consumers' information about lower-quality insurance options but refines it for higher-quality ones. Changes to available product information generate a shift in demand towards higher-quality plans, triggering additional firm investments and making consumers better informed about a menu of superior options. The new design also optimally aggregates different quality dimensions, tackling a multitasking moral hazard problem. The friction is due to firms' (agent) private incentives to attain scores using cost-efficient investments instead of consumer-valued ones, preferred by the regulator (principal). Overall, the alternative policy increases welfare by $669 per enrollee per year. The analysis reveals that simple scores can be remarkably effective if well-designed and provides a method to construct them.
+**Abstract**: Diagnostic test performance is measured with respect to the true health status commonly determined using an imperfect reference test. To attain point identification, researchers often assume that the references are infallible, risking misleading conclusions. Without the assumption sensitivity and specificity are partially identified. I derive their smallest possible joint identification regions in standard test performance studies when reference test performance measures are either known precisely or to be in some bounded set. I formalize existing informally stated assumptions on dependence between the reference and tests of interest and characterize smaller identification regions when they hold. In my discussion, I provide an inference procedure that yields confidence sets that are uniformly consistent in level over the class of relevant of distributions. I outline two important use-cases for the identification regions: $1)$ bounding prevalence for population screening tests; $2)$ bounding predictive values. Finally, I analyze the performance of the Abbott BinaxNow COVID-19 rapid antigen tests using the framework. I provide estimated identification regions and confidence sets for all currently available COVID-19 rapid antigen tests in the US under the Emergency Use Authorization.
 
 **Draft coming soon**
 
