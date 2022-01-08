@@ -1,6 +1,7 @@
 ---
 title: "Sensitivity and Specificity Measurement Using an Imperfect Gold Standard: Identification and Inference"
 summary: "Smallest identification regions for diagnostic test performance measures and their estimation."
+author: Filip Obradović
 
 tags:
 date: "2022-01-07T00:00:00Z"
