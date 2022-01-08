@@ -3,7 +3,7 @@ title: Sensitivity and Specificity Measurement Using an Imperfect Gold Standard:
 subtitle: ""
 
 # Summary for listings and search engines
-summary: ""
+summary: aaa
 
 # Link this post with a project
 projects: []
@@ -19,14 +19,6 @@ draft: false
 
 # Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: ""
-  focal_point: ""
-  placement: 2
-  preview_only: false
 
 authors:
 - admin
