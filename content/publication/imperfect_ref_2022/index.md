@@ -29,7 +29,7 @@ publication: In *Wowchemy Conference*
 featured: true
 date: 2022-07-01T00:00:00Z
 url_slides: ""
-title: Sensitivity and Specificity Measurement Using an Imperfect Gold Standard: Identification and Inference
+title: "Sensitivity and Specificity Measurement Using an Imperfect Gold Standard: Identification and Inference"
 tags: []
 projects:
   - example
