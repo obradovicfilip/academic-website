@@ -1,9 +1,9 @@
 ---
 title: Sensitivity and Specificity Measurement Using an Imperfect Gold Standard: Identification, Inference and Decisions
-subtitle: ""
+subtitle: []
 
 # Summary for listings and search engines
-summary: ""
+summary: []
 
 # Link this post with a project
 projects: []
