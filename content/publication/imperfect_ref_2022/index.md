@@ -6,13 +6,13 @@ publication_types:
   - "3"
 authors:
   - admin
-summary: aaaa
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: ""
+publication: "Working Paper"
 featured: true
 date: 2022-01-07T00:00:00Z
 url_slides: ""
