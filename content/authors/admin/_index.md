@@ -21,7 +21,9 @@ organizations:
     url: https://economics.northwestern.edu/
 education:
   courses:
-    - course: Ph.D. Economics
+    - icon: envelope
+      icon_pack: fas
+      course: Ph.D. Economics
       institution: Northwestern University
       year: in progress
     - course: M.A. Economics
