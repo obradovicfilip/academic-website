@@ -29,5 +29,5 @@ url_video: ""
 # slides: example
 ---
 
-Diagnostic tests are almost never perfect and their results may differ from the true health status. Researchers commonly assume that the test results represent the true health status perfectly when measuring average treatment effects (ATE) in randomized controlled trials. When this assumption fails, ATE is not identified. I show how the ATE may be recovered using perfect or approximate knowledge of the test performance. I demonstrate how inference may be performed in both cases and provide an empirical example.
+Determining what effect a treatment has on true health status is a typical research goal. Since health status is inherently unobservable, it is routinely replaced with a diagnostic test result. Measurement of average treatment effects (ATE) on the health status in randomized controlled trials requires that the status and test results are equal for every unit of observation. When this assumption fails, ATE is not identified. I show how the ATE may be recovered using perfect or approximate knowledge of the test performance. I demonstrate how inference may be performed in both cases and provide empirical examples.
 
