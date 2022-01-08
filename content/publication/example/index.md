@@ -10,7 +10,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "3"
 authors:
   - admin
   - Robert Ford
