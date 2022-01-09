@@ -2,7 +2,7 @@
 title: Ko su i šta rade ekonomisti?
 author: admin
 date: '2022-01-09'
-slug: managing-pubs-Academic-website
+slug: ko-su-ekonomisti
 categories: [doktorat, ekonomija]
 tags:
   - doktorat
