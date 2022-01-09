@@ -11,6 +11,10 @@ subtitle: 'Autor: Filip Obradović'
 summary: ''
 authors: []
 lastmod: '2022-01-09' 
+image:
+  caption: 'KGH, Northwestern University'
+  focal_point: ''
+  preview_only: no
 featured: no
 projects: []
 draft: FALSE
