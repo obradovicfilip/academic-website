@@ -5,7 +5,7 @@ date: '2022-01-08'
 slug: why-the-strange-language
 categories: []
 tags:
-subtitle: ''
+subtitle: 'Author: Filip Obradović'
 summary: ''
 authors: []
 lastmod: '2022-01-08'
