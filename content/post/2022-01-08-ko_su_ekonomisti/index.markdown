@@ -1,17 +1,17 @@
 ---
 title: Ko su ekonomisti?
 author: admin
-date: '2021-01-29'
+date: '2022-01-09'
 slug: managing-pubs-Academic-website
 categories: [hugo academic, blogdown]
 tags:
   - hugo academic
   - blogdown
   - publications
-subtitle: ''
+subtitle: 'Autor: Filip Obradović'
 summary: ''
 authors: []
-lastmod: '2021-03-09' 
+lastmod: '2022-01-09' 
 featured: no
 projects: []
 draft: FALSE
