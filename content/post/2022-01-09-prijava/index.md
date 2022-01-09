@@ -23,7 +23,7 @@ draft: FALSE
 
 Kao što je navedeno u prethodnom [tekstu](https://filipobradovic.com/post/ko-su-ekonomisti/), priprema za doktorat počinje onog trenutka kada upišete osnovne studije. Zbog toga, čak i ako ste druga ili treća godina osnovnih studija nije zgoreg da polako usmeravate svoje postupke ka poboljšanju svog akademskog profila. Ovaj tekst se odnosi na doktorate iz oblasti ekonomije i finansija u Americi i na LSE-u, koji funkcionišu po sličnom principu i ne mora biti reprezentativan za sve univerzitete. 
 
-## Prijava i rok
+## Rok za prijavu
 
 Prijave se otvaraju u septembru i ostaju otvorene do 1.12. svake godine za sve škole. Neke škole svoje prijave zatvaraju koju nedelju kasnije. Nije bitno u kom trenutku je prijava poslata, sve dok je dostavljena u propisanom periodu. Odluke se donose par meseci nakon zatvaranja prijava i moraju biti finalizovane do [15. aprila naredne godine](https://cgsnet.org/april-15-resolution). Primera radi, ukoliko želite da studirate u akademskoj 2022/2023. godini, prijava je morala biti podneta do 1.12.2021, a odluku o prihvatanju ponude morate doneti do 15.4.2022 za studije koje obično počinju u avgustu 2022. godine. Postoji **dugačka pauza** između podnošenja prijave i početka studija koju ne smete smetnuti sa uma.
 
