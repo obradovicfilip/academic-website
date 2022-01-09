@@ -20,5 +20,5 @@ Imagine for a moment that you never had a chance to speak to a single doctoral s
 
 Such is the reality for almost all brilliant students from these countries, many of whom decide not to pursue further academic development because they are unaware of the possibilities that await them. Personally, I was unbelievably lucky with the professors I had the chance to learn from and I have been ushered to consider other programs mainly by people whom I met in serendipitous encounters (predominantly in summer schools). I am aware that not everybody will have such good fortune.
 
-I hope to make the access to information more equitable and to help those who do decide to branch out by leveraging the knowledge of local universities. Thus, to make the posts in this blog more attractive to the target audience, they will mostly be written in Serbian. Hopefully, this will make them appealing and useful to native Bosnian/Croatian/Montenegrin/Macedonian/Slovenian speakers, as well.
+I hope to make the access to information more equitable and to help those who do decide to branch out by leveraging the knowledge of local universities. Thus, to make the posts in this blog more attractive to the target audience, they will mostly be written in Serbian. Hopefully, this will make them appealing and useful to Bosnian/Croatian/Montenegrin/Macedonian/Slovenian speakers, as well.
 
