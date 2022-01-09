@@ -3,11 +3,10 @@ title: Ko su i šta rade ekonomisti?
 author: admin
 date: '2022-01-09'
 slug: managing-pubs-Academic-website
-categories: [hugo academic, blogdown]
+categories: [doktorat, ekonomija]
 tags:
-  - hugo academic
-  - blogdown
-  - publications
+  - doktorat
+  - ekonomija
 subtitle: 'Autor: Filip Obradović'
 summary: ''
 authors: []
@@ -64,9 +63,10 @@ Verovali ili ne, ni oko ovog pitanja ne postoji konsenzus. Moglo bi se zaključi
 7. Chicago, Northwestern (nerešeno)
 {:start="9"}
 9. Columbia
-10. UPenn 
+{:start="10"}
+11. UPenn 
 
-Ovo je deo rangiranja **doktorskih programa** iz ekonomije koje pravi [USNews](https://www.usnews.com/.../top.../economics-rankings) i koje se najčešće uzima kao relevantno za SAD, ali ne uključuje ostale škole koje mogu biti sjajne. Na primer, ne postoji slaganje oko toga gde bi se na ovoj listi našao LSE, ali svi će se složiti da je sigurno negde između 1-15. mesta. Bitno je naglasiti da se šangajska lista za koju često čujete kod nas ne koristi kao relevantno merilo i da ne postoji najbolja globalna lista za poređenje, kao i da većina lista zapravo rangira departmane, ali **ne i doktorske programe** što je za vas potencijalno najvažnije. Na kraju krajeva, najbitnije je gde ćete se vi osećati prijatno i gde ćete biti produktivni. Mada rang često ume da bude korelisan sa tim merilom, on definitivno nije sve i o izboru škola nakon prijema će biti više reči kasnije.
+Ovo je deo rangiranja **doktorskih programa** iz ekonomije koje pravi [USNews](https://www.usnews.com/best-graduate-schools/top-humanities-schools/economics-rankings) i koje se najčešće uzima kao relevantno za SAD, ali ne uključuje ostale škole koje mogu biti sjajne. Na primer, ne postoji slaganje oko toga gde bi se na ovoj listi našao LSE, ali svi će se složiti da je sigurno negde između 1-15. mesta. Bitno je naglasiti da se šangajska lista za koju često čujete kod nas ne koristi kao relevantno merilo i da ne postoji najbolja globalna lista za poređenje, kao i da većina lista zapravo rangira departmane, ali **ne i doktorske programe** što je za vas potencijalno najvažnije. Na kraju krajeva, najbitnije je gde ćete se vi osećati prijatno i gde ćete biti produktivni. Mada rang često ume da bude korelisan sa tim merilom, on definitivno nije sve i o izboru škola nakon prijema će biti više reči kasnije.
 
 ## Ovo sve sjano zvuči, ali zašto onda svi ne idu na ekonomiju?
 
