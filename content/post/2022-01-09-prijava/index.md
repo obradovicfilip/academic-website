@@ -1,6 +1,6 @@
 ---
 title: Kako izgleda prijava za dokorat iz ekonomije i finansija?
-summary: 'Autori: Jana Obradović, Filip Obradović'
+summary: "Autori: Jana Obradović, Filip Obradović"
 author: Filip i Jana Obradović
 date: '2022-01-09'
 slug: prijava-za-doktorat
