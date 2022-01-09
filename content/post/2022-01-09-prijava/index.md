@@ -8,7 +8,7 @@ tags:
   - doktorat
   - ekonomija
   - prijava
-subtitle: 'Autor: Jana i Filip Obradović'
+subtitle: 'Autori: Jana Obradović, Filip Obradović'
 summary: ''
 authors: []
 lastmod: '2022-01-09' 
