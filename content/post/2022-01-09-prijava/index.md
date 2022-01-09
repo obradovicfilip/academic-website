@@ -13,7 +13,7 @@ summary: ''
 authors: []
 lastmod: '2022-01-09' 
 image:
-  caption: 'KGH, Northwestern University'
+  caption: ''
   focal_point: ''
   preview_only: no
 featured: no
