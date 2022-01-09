@@ -1,8 +1,8 @@
 ---
-title: Kako izgleda prijava za dokorat iz ekonomije
+title: Kako izgleda prijava za dokorat iz ekonomije i finansija
 author: Jana Obradović
 date: '2022-01-09'
-slug: ko-su-ekonomisti
+slug: prijava-za-doktorat
 categories: [doktorat, ekonomija]
 tags:
   - doktorat
@@ -20,7 +20,8 @@ projects: []
 draft: FALSE
 ---
 
-Kao što smo naveli u prethodnim tekstovima, priprema za doktorat počinje onog trenutka kada upišete osnovne studije. Zbog toga, čak i ako ste druga, treća, godina osnovnih studija nije loše da polako usmeravate svoje postupke ka poboljšanju svog akademskog profila. Napominjem da se ovaj tekst odnosi na doktorat iz ekonomije i finansija u Americi i na LSE-u. Nisam sigurna kakva je situacija na drugim univerzitetima i programima. 
+Kao što je navedeno u prethodnom [tekstu](https://filipobradovic.com/post/ko-su-ekonomisti/), priprema za doktorat počinje onog trenutka kada upišete osnovne studije. Zbog toga, čak i ako ste druga ili treća godina osnovnih studija nije zgoreg da polako usmeravate svoje postupke ka poboljšanju svog akademskog profila. Ovaj tekst se odnosi na doktorate iz oblasti ekonomije i finansija u Americi i na LSE-u, koji funkcionišu po sličnom principu i ne mora.  
+
 Na ovom linku možete videti šta se od vas očekuje da pošaljete kada se prijavljujete za doktorat: https://economics.harvard.edu/admissions . Ovo je link za aplikaciju na Harvardu, ali je proces gotovo identičan za sve škole.
 1)	GRE – Više o ovom testu možete pročitati ovde https://www.skolejezikanovisad.com/sve-sto-treba-da-znate-o-gre-ispitu/. Iako zvanično ne postoji minimum, nezvanično se od vas očekuje da imate 168+ bodova iz kvantitativnog dela (optimalno 170), i 160+ iz verbalnog dela. Poslednjih godina se diskutuje o ukidanju ovog testa i za neke škole prošle godine nije bio obavezan. Krenite da se spremate barem 6 meseci pre roka, jer je jako stresno kada mesec dana pre zatvaranja prijava nemate željeni rezultat. Ovaj test se šalje i prilikom prijave za dobre master programe iz ekonomije i podrazumeva se da dostignete uporediv rezultat. GRE je potreban, ali ne i dovoljan uslov da vas prime na dobar program.
 2)	TOEFL/Ielts  - To su testovi znanja engleskog jezika. Minimum za TOEFL je oko 100 poena za većinu škola.
