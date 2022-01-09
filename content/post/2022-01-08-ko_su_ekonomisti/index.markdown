@@ -64,7 +64,7 @@ Verovali ili ne, ni oko ovog pitanja ne postoji konsenzus. Moglo bi se zaključi
 {:start="9"}
 9. Columbia
 {:start="10"}
-11. UPenn 
+10. UPenn 
 
 Ovo je deo rangiranja **doktorskih programa** iz ekonomije koje pravi [USNews](https://www.usnews.com/best-graduate-schools/top-humanities-schools/economics-rankings) i koje se najčešće uzima kao relevantno za SAD, ali ne uključuje ostale škole koje mogu biti sjajne. Na primer, ne postoji slaganje oko toga gde bi se na ovoj listi našao LSE, ali svi će se složiti da je sigurno negde između 1-15. mesta. Bitno je naglasiti da se šangajska lista za koju često čujete kod nas ne koristi kao relevantno merilo i da ne postoji najbolja globalna lista za poređenje, kao i da većina lista zapravo rangira departmane, ali **ne i doktorske programe** što je za vas potencijalno najvažnije. Na kraju krajeva, najbitnije je gde ćete se vi osećati prijatno i gde ćete biti produktivni. Mada rang često ume da bude korelisan sa tim merilom, on definitivno nije sve i o izboru škola nakon prijema će biti više reči kasnije.
 
