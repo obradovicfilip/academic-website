@@ -1,5 +1,5 @@
 ---
-title: Kako izgleda prijava za dokorat iz ekonomije i finansija
+title: Kako izgleda prijava za dokorat iz ekonomije i finansija?
 author: Filip i Jana Obradović
 date: '2022-01-09'
 slug: prijava-za-doktorat
