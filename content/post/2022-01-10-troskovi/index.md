@@ -54,13 +54,13 @@ Prijave na doktorat, nažalost, iziskuju **značajne troškove** koje kandidati 
 Fiksne troškove, kao što im ime kaže, morate pokriti nezavisno od broja škola za koje se prijavljujete. Varijabilni troškovi će znatno varirati u zavisnosti od broja škola koji odaberete, ali generalni savet je **uvek prijaviti se na što više** njih. Proces prijema je vrlo šumovit i kandidat može biti nasumično odbijen na velikom broju niže rangiranih škola, a primljen na najviše rangiranu školu. Studenti se obično prijavljuju na svih 20 najviše rangiranih škola i nakon objava odluka biraju gde će ići. Ukoliko imate jednu školu u koju želite da idete, **sva je prilika da vas ona neće primiti**, te je najbolje rano prihvatiti realnost za mnoge od nas, a to je da škole ne birate vi, već primarno one vas.
 
 Troškovi u 2020. godini su otprilike izgledali ovako (svi iznosi su u američkim dolarima):
-- GRE polaganje - $$190$
-- TOEFL polaganje - $$200$
-- Slanje jednog GRE rezultata - $$27$ (polaganje uključuje 4 besplatna slanja)
-- Slanje jednog TOEFL rezultata - $$20$ (polaganje uključuje 4 besplatna slanja)
-- Application fee po školi - $$0$ - $$140$ (često između $$80-$120$)
+- GRE polaganje - $190
+- TOEFL polaganje - $200
+- Slanje jednog GRE rezultata - $27 (polaganje uključuje 4 besplatna slanja)
+- Slanje jednog TOEFL rezultata - $20 (polaganje uključuje 4 besplatna slanja)
+- Application fee po školi - besplatno - $140 (često između 80-120 dolara)
 
-GRE i TOEFL je moguće polagati više puta i kandidati često to rade dok ne dobiju željeni rezultat. Pretpostavimo u obračunu da je broj polaganja svakog jednak 2. Pretpostavimo, takođe, da je prosečan application fee odabranih škola $100. Očekivani troškovi za prijave na 20 škola pod tim pretpostavkama su oko **$3500**, na šta bi trebalo dodati troškove knjiga za GRE i TOEFL koje bi bilo dobro kupiti (~$100 ukupno). Ovaj iznos može biti i veći i manji, ali brojka je zgodna pri formiranju očekivanja.
+GRE i TOEFL je moguće polagati više puta i kandidati često to rade dok ne dobiju željeni rezultat. Pretpostavimo u obračunu da je broj polaganja svakog jednak 2. Pretpostavimo, takođe, da je prosečan application fee odabranih škola $100. Očekivani troškovi za prijave na 20 škola pod tim pretpostavkama su oko **$3500**, dok bi za 10 škola to iznosilo oko **$2000**, na šta bi trebalo dodati troškove knjiga za GRE i TOEFL koje bi bilo dobro kupiti (~$100 ukupno). Ove brojke mogu biti i veće i manje, ali su korisne za formiranje očekivanja.
 
 Kao što je navedeno, po proceni vidimo da su prijave izdašan trošak, što uzimajući u obzir da prijem svakako nije garantovan jeste vrlo važna stavka pri donošenju odluka. No, moj savet bi bio da na ovaj novac gledate kao investiciju. Ukoliko imate šanse da budete primljeni (što vam niko ne može garantovati, ali vam iskusniji članovi grupe mogu pomoći da procenite), taj iznos u očekivanju je zanemarljiv. Ne treba smetnuti sa uma da doktorat iz ekonomije ili finansija na dobrom univerzitetu otvara mnoga vrata i da u dugom roku može biti veoma lukrativan, te to izdvajanje danas može biti višestruko isplativo.
 
