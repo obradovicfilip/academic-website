@@ -1,7 +1,7 @@
 ---
 title: Šta je RA pozicija i kako izgleda proces prijava?
 subtitle: 'Autor: Jana Obradović'
-author: Filip Obradović
+author: Jana Obradović
 date: '2022-01-10'
 slug: ra-pozicije
 categories: [doktorat, ekonomija, istrazivac, posao]
