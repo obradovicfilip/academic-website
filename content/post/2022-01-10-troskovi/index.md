@@ -9,7 +9,7 @@ tags:
   - doktorat
   - ekonomija
   - prijava
-subtitle: 'Autori: Filip Obradović'
+subtitle: 'Autor: Filip Obradović'
 summary: ''
 authors: []
 lastmod: '2022-01-10' 
@@ -27,7 +27,7 @@ Važna stavka u planiranju daljeg školovanja svakako jesu finansije. Ispod ću 
 
 Kako studije obično traju 5-6 ili više godina i zahtevaju potpunu posvećenost, ne ostavljajući mnogo vremena za drugi posao, izvori finansiranja su izuzetno bitni. Školarina i stipendija koja pokriva troškove života su na doktorskim programima *gotovo uvek* u celosti pokrivene od strane univerziteta. Vrlo često je to slučaj i na ostalim Ph.D. programima koje nude biznis škole poput Accounting, Marketing, Management, Operations Management i slično. Bitno je napomenuti da to ipak **gotovo nikada** nije slučaj za master i MBA programe na osnovu kojih univerziteti dobijaju značajna sredstva. 
 
-Ukoliko dobijete ponudu za studije od nekog univerziteta, ona će nužno uključivati i detalje o finansiranju vaših studija. Podrazumevano je da je školarina pokrivena (inače bi studije bile *veoma* nepristupačne), kao i svi troškovi zdravstvenog osiguranja (takođe, vrlo važno u SAD). Stipendija, ili na engleskom - stipend, je bruto iznos novca koji student/kinja dobija na godišnjem nivoa i ona značajno varira između škola. Iznos umnogome zavisi od lokacije na kojoj je škola, jer potrebni izdaci u San Francisku u Kaliforniji i Medisonu u Viskonsinu nisu uporedivi. Važno je istaći da stipendija obično omogućava razumno komforan život, jer je njena glavna svrha da omogući svima da pun fokus usmere na svoje usavršavanje. Raspon godišnjih iznosa bez outliera je 28000-44000 dolara.
+Ukoliko dobijete ponudu za studije od nekog univerziteta, ona će nužno uključivati i detalje o finansiranju vaših studija. Podrazumevano je da je školarina pokrivena (inače bi studije bile *veoma* nepristupačne), kao i svi troškovi zdravstvenog osiguranja (takođe, vrlo važno u SAD). Stipendija, ili na engleskom - stipend, je bruto iznos novca koji student/kinja dobija na godišnjem nivou i ona značajno varira između škola. Iznos umnogome zavisi od lokacije na kojoj je škola, jer potrebni izdaci u San Francisku u Kaliforniji i Medisonu u Viskonsinu nisu uporedivi. Važno je istaći da stipendija obično omogućava razumno komforan život, jer je njena glavna svrha da omogući svima da pun fokus usmere na svoje usavršavanje. Raspon godišnjih iznosa bez outliera je 28000-44000 dolara.
 
 Stipendija može biti po dva osnova:
 1) Fellowship - nije potrebno uložiti nikakav rad u zamenu za stipendiju;
