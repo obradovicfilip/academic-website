@@ -37,7 +37,7 @@ Modalni paket uključuje 2 godine fellowship i 4 godine assistantship fundiranja
 
 Pomenuo sam pregovaračku poziciju koja može zvučati neobično. Naime, škole vrlo agresivno pokušavaju da regrutuju svoje doktorande, jer im oni bitno utiču na buduće rangiranje i spremne su da budu fleksibilne sa ponudama kako bi vas ubedili da studirate kod njih. Kandidati koji imaju jednako ili bolje rangirane ponude jednostavno mogu dobiti više stipendije i/ili duže fellowship aranžmane u zamenu za dolazak na određenu školu.
 
-U pojedinim slučajevima, kandidati mogu dodatno zaraditi kroz rad na projektima ili stručnim praksama tokom leta kada nemaju drugih univerzitetskih obaveza, ukoliko im to departman odobri. Često je dozvoljeno držanje privatnih časova koji mogu biti još jedan važan izvor prihoda tokom cele godine.
+U pojedinim slučajevima, kandidati mogu dodatno zaraditi kroz rad na projektima ili stručnim praksama tokom leta kada nemaju drugih univerzitetskih obaveza, ukoliko im to departman odobri. Često je dozvoljeno držanje privatnih časova koji mogu biti još jedan važan izvor prihoda tokom cele godine. (od 50 do 150 dolara po satu)
 
 Takođe, paketi finansiranja koje nude univerziteti mogu biti kompatibilni sa eksternim stipendijama, poput onih koje daje [Unicredit fondacija](https://www.unicreditgroup.eu/en/unicreditfoundation/initiatives/study-and-research/our-winners.html). Važno je napomenuti da **eksterne stipendije** bolje ističu kandidata i značajno povećavaju šanse prijema na doktorat, te ih je korisno dobro istražiti.
 
