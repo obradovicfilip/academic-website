@@ -52,6 +52,6 @@ Ukratko, ukoliko planirate da se prijavljujete na doktorat za 2 do 3 godine, sad
 
 Ovaj put jeste težak i rizičan, ali ako zaista mislite da je ovo vaš životni poziv, bićete veoma zadovoljni ukoliko se nađete u okruženju gde se nauka iskreno ceni. S druge strane, ukoliko odlučite da je bolje da ipak pođete nekim drugim putem, sve od navedenog će takođe biti od koristi i trud koji ste uložili neće biti uzaludan.
 
-Sa srpskim studentima na doktorskim studijama u inostranstvu možete stupiti u kontakt putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
+Sa našim studentima na doktorskim studijama u inostranstvu možete stupiti u kontakt putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
 
 
