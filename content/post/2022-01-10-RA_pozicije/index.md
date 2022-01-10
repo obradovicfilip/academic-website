@@ -22,7 +22,7 @@ projects: []
 draft: FALSE
 ---
 
-Kada biste me pitali da izdvojim jednu stavku koja najviše može da vam pomogne da budete primljeni na doktorat iz ekonomije, to bi bilo da radite kao istraživač-saradnik na nekom od vodećih univerziteta. Čak i ako niste potpuno sigurni da je ovo vaš životni poziv i dalje bih vam predložila da se prijavite za istu, jer veštine koje ćete steći možete kasnije koristiti u privredi, a pomoći će vam i da utvrdite da li je akademija posao za vas.
+Kada biste me pitali da izdvojim jednu stavku koja najviše može da vam pomogne da budete primljeni na doktorat iz ekonomije, to bi bilo da radite kao istraživač saradnik (research assistant - RA) na nekom od vodećih univerziteta. Čak i ako niste potpuno sigurni da je ovo vaš životni poziv i dalje bih vam predložila da se prijavite za istu, jer veštine koje ćete steći možete kasnije koristiti u privredi, a pomoći će vam i da utvrdite da li je akademija posao za vas.
 
 ###  Šta podrazumeva pozicija istraživača saradnika?
 
