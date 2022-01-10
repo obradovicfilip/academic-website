@@ -1,5 +1,5 @@
 ---
-title: Sta je RA pozicija i kako izgleda proces prijava?
+title: Šta je RA pozicija i kako izgleda proces prijava?
 subtitle: 'Autor: Jana Obradović'
 author: Filip Obradović
 date: '2022-01-10'
@@ -14,7 +14,7 @@ summary: ''
 authors: []
 lastmod: '2022-01-10' 
 image:
-  caption: ''
+  caption: 'Kampus Univerziteta u Čikagu'
   focal_point: ''
   preview_only: no
 featured: no
