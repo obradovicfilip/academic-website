@@ -37,6 +37,8 @@ Modalni paket uključuje 2 godine fellowship i 4 godine assistantship fundiranja
 
 Pomenuo sam pregovaračku poziciju koja može zvučati neobično. Naime, škole vrlo agresivno pokušavaju da regrutuju svoje doktorande, jer im oni bitno utiču buduće rangiranje i spremne su da budu fleksibilne sa ponudama kako bi vas ubedili da studirate kod njih. Kandidati koji imaju jednako ili bolje rangirane ponude jednostavno mogu dobiti više stipendije i/ili duže fellowship aranžmane u zamenu za dolazak na određenu školu.
 
+U pojedinim slučajevima, kandidati mogu dodatno zaraditi kroz rad na projektima ili stručnim praksama tokom leta kada nemaju drugih univerzitetskih obaveza, ukoliko im to departman dozvoli. Često je dozvoljeno držanje dodatnih časova koji mogu biti još jedan važan izvor prihoda.
+
 Takođe, paketi finansiranja koje daju univerziteti mogu biti kompatibilni sa eksternim stipendijama, poput onih koje daje [Unicredit fondacija](https://www.unicreditgroup.eu/en/unicreditfoundation/initiatives/study-and-research/our-winners.html). Važno je napomenuti da **eksterne stipendije** bolje ističu kandidata i značajno povećavaju šanse prijema na doktorat, te ih je korisno dobro istražiti.
 
 ## Troškovi prijava	
@@ -52,11 +54,11 @@ Prijave na doktorat, nažalost, iziskuju **značajne troškove** koje kandidati 
 Fiksne troškove, kao što im ime kaže, morate pokriti nezavisno od broja škola za koje se prijavljujete. Varijabilni troškovi će znatno varirati u zavisnosti od broja škola koji odaberete, ali generalni savet je **uvek prijaviti se na što više** njih. Proces prijema je vrlo šumovit i kandidat može biti nasumično odbijen na velikom broju niže rangiranih škola, a primljen na najviše rangiranu školu. Studenti se obično prijavljuju na svih 20 najviše rangiranih škola i nakon objava odluka biraju gde će ići. Ukoliko imate jednu školu u koju želite da idete, **sva je prilika da vas ona neće primiti**, te je najbolje rano prihvatiti realnost za mnoge od nas, a to je da škole ne birate vi, već primarno one vas.
 
 Troškovi u 2020. godini su otprilike izgledali ovako (svi iznosi su u američkim dolarima):
-- GRE polaganje - $190
-- TOEFL polaganje - $200
-- Slanje jednog GRE rezultata - $27 (polaganje uključuje 4 besplatna slanja)
-- Slanje jednog TOEFL rezultata - $20 (polaganje uključuje 4 besplatna slanja)
-- Application fee po školi - besplatno - $140 (često između $80-$120)
+- GRE polaganje - $$190$
+- TOEFL polaganje - $$200$
+- Slanje jednog GRE rezultata - $$27$ (polaganje uključuje 4 besplatna slanja)
+- Slanje jednog TOEFL rezultata - $$20$ (polaganje uključuje 4 besplatna slanja)
+- Application fee po školi - $$0$ - $$140$ (često između $$80-$120$)
 
 GRE i TOEFL je moguće polagati više puta i kandidati često to rade dok ne dobiju željeni rezultat. Pretpostavimo u obračunu da je broj polaganja svakog jednak 2. Pretpostavimo, takođe, da je prosečan application fee odabranih škola $100. Očekivani troškovi za prijave na 20 škola pod tim pretpostavkama su oko **$3500**, na šta bi trebalo dodati troškove knjiga za GRE i TOEFL koje bi bilo dobro kupiti (~$100 ukupno). Ovaj iznos može biti i veći i manji, ali brojka je zgodna pri formiranju očekivanja.
 
