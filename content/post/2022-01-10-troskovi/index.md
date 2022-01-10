@@ -14,7 +14,7 @@ summary: ''
 authors: []
 lastmod: '2022-01-10' 
 image:
-  caption: 'Kampus Univerziteta u Čikagu'
+  caption: 'Kampus Prinston univerziteta'
   focal_point: ''
   preview_only: no
 featured: no
