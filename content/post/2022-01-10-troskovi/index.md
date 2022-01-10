@@ -21,7 +21,7 @@ featured: no
 projects: []
 draft: FALSE
 ---
-Važna stavka u planiranju daljeg školovanja svakako jesu finansije. Ispod ću detaljnije objasniti koliko je novca potrebno izdvojiti za prijave na doktorat iz oblasti ekonomije i finansija i na koji način se mogu pokrivati troškovi samih studija. Tekst se prvenstveno odnosi na programe  Economics u SAD koji su rangirani u 20 najboljih prema [USNews](https://www.usnews.com/best-graduate-schools/top-humanities-schools/economics-rankings) rang listi, kao i na LSE, koji je uređen na sličan način. Navedeno ispod će se generalizovati na visoko rangirane programe iz finansija, kao i na mnoge druge programe, ali ne nužno na sve. Ukoliko ste u nedoumici, najbolje bi bilo proveriti na sajtu departmana ili se obratiti starijim kolegama putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
+Važna stavka u planiranju daljeg školovanja svakako jesu finansije. Ispod ću detaljnije objasniti koliko je novca potrebno izdvojiti za prijave na doktorat iz oblasti ekonomije i finansija i na koji način se mogu pokrivati troškovi samih studija. Tekst se prvenstveno odnosi na programe  Economics u SAD koji su rangirani u 20 najboljih na [USNews](https://www.usnews.com/best-graduate-schools/top-humanities-schools/economics-rankings) rang listi, kao i na LSE, koji je uređen na sličan način. Navedeno ispod će se generalizovati na visoko rangirane programe iz finansija, kao i na mnoge druge programe, ali ne nužno na sve. Ukoliko ste u nedoumici, najbolje bi bilo proveriti na sajtu departmana ili se obratiti starijim kolegama putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
 
 ## Finansiranje studija
 
