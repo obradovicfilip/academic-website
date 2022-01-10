@@ -64,5 +64,5 @@ GRE i TOEFL je moguće polagati više puta i kandidati često to rade dok ne dob
 
 Kao što je navedeno, po proceni vidimo da su prijave izdašan trošak, što uzimajući u obzir da prijem svakako nije garantovan jeste vrlo važna stavka pri donošenju odluka. No, moj savet bi bio da na ovaj novac gledate kao investiciju. Ukoliko imate šanse da budete primljeni (što vam niko ne može garantovati, ali vam iskusniji članovi grupe mogu pomoći da procenite), taj iznos u očekivanju je zanemarljiv. Ne treba smetnuti sa uma da doktorat iz ekonomije ili finansija na dobrom univerzitetu otvara mnoga vrata i da u dugom roku može biti veoma lukrativan, te to izdvajanje danas može biti višestruko isplativo.
 
-**Bonus**: Posete školama (visit days)! Ukoliko budete primljeni, škole će iskoristiti application fees koje su dobile da vam plate put da posetite svaki departman kako biste bolje proceniti koji vam najviše odgovara po kulturi.
+**Bonus**: Posete školama (visit days)! Škole će iskoristiti novac koje su dobile od prijava da vam plate put da posetite svaki departman na koji ste primljeni kako biste bolje procenili koji vam najviše odgovara.
 
