@@ -77,7 +77,9 @@ Za mene je ovaj posao bio jedno od najleših iskustva u životu i zaista ni jedn
 **Gde pratiti oglase za posao?**
 
 [RA positions -  NBER](https://www.nber.org/career-resources/research-assistant-positions-not-nber)
+
 [RA positions -  twitter](https://twitter.com/econ_rar)
 
 Ukoliko ste odlučili da želite da se prijavite za ove pozicije, slobodno mi se javite kako bi mogla da vam pomognem da se pripremite i da vam ukažem na vaše nedostatke na kojima bi trebalo da radite. Takođe, planirajte da sebi ostavite barem 6 meseci da radite na pripremi. Srećno!
 
+Sa našim studentima na doktorskim studijama u inostranstvu možete stupiti u kontakt putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
