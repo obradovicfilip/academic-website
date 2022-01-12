@@ -22,7 +22,7 @@ projects: []
 draft: FALSE
 ---
 
-Struktura nekih doktorskih studija u inostranstvu je značajno drugačija od one koja se može sresti u Srbiji. Stoga, kada razmišljate o izboru sistema u kom želite da studirate, veoma je korisno biti dobro upućen u njihove osnovne odlike. U ovom tekstu ću sumirati karakteristike tzv. američkog sistema studija i, gde je to prikladno, napraviti paralelu sa evropskim, koji je predominantan i u našoj zemlji. Napisano se odnosi samo na studije iz oblasti ekonomije (konkretno Ph.D in Economics) i za pojedine srodne oblasti, ali ne nužno i na druge nauke ili programe.
+Struktura nekih doktorskih studija u inostranstvu je značajno drugačija od one koja se može sresti u Srbiji. Stoga, kada razmišljate o izboru sistema u kom želite da studirate, veoma je korisno biti dobro upućen u njihove osnovne odlike. U ovom tekstu ću sumirati karakteristike kolokvijalno nazvanog američkog sistema studija i, gde je to prikladno, napraviti paralelu sa tzv. evropskim, koji je predominantan i u našoj zemlji. Napisano se odnosi samo na studije iz oblasti ekonomije (konkretno Ph.D in Economics) i za pojedine srodne oblasti, ali ne nužno i na druge nauke ili programe.
 
 Američki sistem, kako mu ime kaže, primarno prate škole u SAD, no primetan je trend porasta broja njih u Evropi koje su reformisale svoje programe po tom modelu. Primeri su [LSE](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2022/MResPhD-Economics), [UCL](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/economics-mres-mphil-phd), [UZH](https://www.econ.uzh.ch/en/study/phd.html), [BSE](https://bdpems.wiwi.hu-berlin.de/portal/), [SSE](https://www.hhs.se/), [GESS](https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/cdse-program.html), [BGSE](https://www.bgse.uni-bonn.de/en/graduate-programs/m.sc.-in-economic-research-doctoral-program-ph.d.), [Stockholm University](https://www.su.se/department-of-economics/education/study-with-us/phd-program-in-economics-1.531004) , [UPF](https://www.upf.edu/web/econ/doctorat), [TSE](https://www.tse-fr.eu/doctoral-program), [CERGE-EI](https://www.cerge-ei.cz/phd-in-economics/). Sve škole u SAD u oblasti ekonomije koje se nalaze u 30 [najbolje rangiranih](https://www.usnews.com/best-graduate-schools/top-humanities-schools/economics-rankings) obrazuju ekonomiste prema programu koji ću izložiti ispod.
 
@@ -61,12 +61,13 @@ Kao što vidite, job market paper je zapravo ultimativni cilj vašeg rada tokom 
 
 Apsolutno! Mnogi studenti na doktorat ulaze sa idejom da će se baviti jednom oblašću i kasnije završe radeći nešto potpuno drugo. Određeni procenat njih to uradi i više puta, što je jedan od benefita studija iz ekonomije. Sasvim je izvodljivo da provedete 2-3 ili više godina baveći se mikroekonomijom i da se kasnije predomislite, doktorirajući kao ekonometričar. U evropskom sistemu je ovo donekle teže jer se mentor obično bira pri upisu, pa se može desiti da je to ograničavajući faktor u promeni polje kasnije tokom studija. Srpski ekonomski fakulteti, nažalost, imaju isti problem.
 
-## Da li je to sve što je potrebno raditi u toku studija?
+## Da li je to sve što je potrebno/moguće raditi u toku studija?
 
-Ne, gore navedena struktura jeste formalni deo zahteva koji se postavljaju. Pored toga postoje i neformalni zadaci koji su na dobrovoljnoj osnovi, poput organizacije i učešća na čitalačkim grupama (**reading groups**), gde studenti čitaju i diskutuju nove radove, uz prisustvo starijih profesora. Dodatne aktivnosti su nedeljni ručkovi ili drugi obroci na kojima se takođe diskutuju nova istraživanja uz obrok, veliki broj nedeljnih seminara na kojima studenti mogu izlagati ili imati priliku da čuju izlaganja profesora sa drugih univerziteta, grupe za vežbanje pisanja/prezentacionih sposobnosti, itd. Takođe, mogućnost slušanja predmeta na bilo kom drugom departmanu u bilo kom trenutku tokom studija (matematika, inženjerstvo, muzika, i tome slično) je otvorena i ne zahteva naknadu.
+Ne, gore navedena struktura jeste formalni deo zahteva koji se postavljaju. Pored toga postoje i neformalni zadaci koji su na dobrovoljnoj osnovi, poput organizacije i učešća na čitalačkim grupama (**reading groups**), gde studenti čitaju i diskutuju nove radove, uz prisustvo starijih profesora. Dodatne aktivnosti su i nedeljni ručkovi ili drugi obroci tokom kojih se takođe diskutuju nova istraživanja, veliki broj nedeljnih seminara na kojima studenti mogu izlagati ili imati priliku da čuju izlaganja profesora sa drugih univerziteta, grupe za vežbanje pisanja/prezentacionih sposobnosti, itd. Takođe, mogućnost slušanja predmeta na bilo kom drugom departmanu u bilo kom trenutku tokom studija (matematika, inženjerstvo, muzika, i tome slično) je otvorena i ne zahteva nikakvu naknadu na univerzitetima u SAD.
+
+## Zaključak
+
+Studije u američkom i evropskom sistemu se značajno razlikuju po strukturi. Ukoliko vam je cilj da se ostvarite u istraživanju i maksimizirate šanse da dobijete akademski posao na nekom od vodećih univerzitetu, trenutno nedvosmisleno prednjači izbor peto-, odnosno šestogodišnjeg sistema studija. One iziskuju značajnu vremensku investiciju, ali će prinos na nju biti srazmeran i potencijalno će vam otvoriti vrata mnogim primamljivim poslovima u oblasti ekonomije, bilo u akademiji ili privredi.
 
 Sa našim studentima na doktorskim studijama u inostranstvu možete stupiti u kontakt putem [FB grupe](https://www.facebook.com/groups/serbianeconbusiness).
 
-Seminari
-
-ukoliko želite posao u akademiji - američki sistem
