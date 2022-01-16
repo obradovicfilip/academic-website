@@ -14,7 +14,7 @@ summary: ''
 authors: []
 lastmod: '2022-01-11' 
 image:
-  caption: ''
+  caption: 'Kampus Jejl univerziteta'
   focal_point: ''
   preview_only: no
 featured: no
