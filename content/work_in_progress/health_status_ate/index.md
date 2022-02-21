@@ -1,6 +1,6 @@
 ---
 title: "Identification and Estimation of Average Treatment Effects on Health Status in RCTs"
-summary: "Filip Obradović \n\n Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials."
+summary: "Filip Obradović \n\n"
 
 date: "2022-01-08T00:00:00Z"
 lastmod: "2022-01-08T00:00:00Z"
@@ -31,5 +31,5 @@ url_video: ""
 # slides: example
 ---
 
-Determining what effect a treatment has on true health status is a typical research goal. Since health status is inherently unobservable, it is routinely replaced with a diagnostic test result. Measurement of average treatment effects (ATE) on the health status in randomized controlled trials requires that the status and test results are equal for every unit of observation. When this assumption fails, ATE is not identified. I show how the ATE may be recovered using perfect or approximate knowledge of the test performance. I demonstrate how inference may be performed in both cases and provide empirical examples.
+# Determining what effect a treatment has on true health status is a typical research goal. Since health status is inherently unobservable, it is routinely replaced with a diagnostic test result. Measurement of average treatment effects (ATE) on the health status in randomized controlled trials requires that the status and test results are equal for every unit of observation. When this assumption fails, ATE is not identified. I show how the ATE may be recovered using perfect or approximate knowledge of the test performance. I demonstrate how inference may be performed in both cases and provide empirical examples.
 
