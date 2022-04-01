@@ -1,8 +1,8 @@
 ---
 title: "Measuring Diagnostic Test Performance Using Imperfect Reference Tests: A Partial Identification Approach"
 summary: "Filip Obradović \n\n Smallest identification regions for diagnostic test performance measures and their estimation."
-date: "2022-01-08T00:00:00Z"
-lastmod: "2022-01-08T00:00:00Z"
+date: "2022-03-31T00:00:00Z"
+lastmod: "2022-03-31T00:00:00Z"
 
 Type: working_papers
 
