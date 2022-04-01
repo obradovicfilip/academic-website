@@ -12,6 +12,9 @@ weight: 30
 title: Working Papers
 subtitle: ''
 
+[image]
+  preview_only = true
+
 content:
   # Page type to display. E.g. project.
   page_type: working_papers
