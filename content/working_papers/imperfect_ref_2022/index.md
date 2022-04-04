@@ -9,7 +9,7 @@ Type: working_papers
 url_code: https://github.com/obradovicfilip/bounding_test_performance
 url_pdf: ""
 url_appendix: ""
-url_pdf: "https://drive.google.com/file/d/1JlJPVttFUVoAhTpGxhhzPYqbrWvDk2IL/view?usp=sharing"
+url_pdf: http://arxiv.org/abs/2204.00180
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
 url_video: ""
 
