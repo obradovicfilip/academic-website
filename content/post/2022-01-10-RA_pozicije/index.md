@@ -78,7 +78,7 @@ Za mene je ovaj posao bio jedno od najleših iskustva u životu i zaista ni jedn
 
 [RA positions -  NBER](https://www.nber.org/career-resources/research-assistant-positions-not-nber)
 
-[RA positions -  twitter](https://twitter.com/econ_rar)
+[RA positions -  twitter](https://twitter.com/econ_ra)
 
 Ukoliko ste odlučili da želite da se prijavite za ove pozicije, slobodno mi se javite kako bih mogla da vam pomognem da se pripremite i da vam ukažem na vaše nedostatke na kojima bi trebalo da radite. Takođe, planirajte da sebi ostavite barem 6 meseci da radite na pripremi. Srećno!
 
