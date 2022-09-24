@@ -1,6 +1,6 @@
 ---
 title: "Inference on ATE in RCTs with Imperfect Compliance under Covariate Adaptive Randomization"
-summary: "Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez \n\n"
+summary: "with Federico Bugni, Mengsi Gao, and Amilcar Velez \n\n"
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2022-09-24T00:00:00Z"
