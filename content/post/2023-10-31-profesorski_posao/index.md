@@ -8,7 +8,7 @@ categories: [ekonomija, posao]
 tags:
   - ekonomija
   - posao
-subtitle: 'Autori: Filip Obradović'
+subtitle: 'Autori: Jana i Filip Obradović'
 summary: ''
 authors: []
 lastmod: '2023-10-31' 
