@@ -13,7 +13,7 @@ summary: ''
 authors: []
 lastmod: '2023-10-31' 
 image:
-  caption: 'Kampus Jejl univerziteta'
+  caption: 'Source: DALL·E 3'
   focal_point: ''
   preview_only: no
 featured: no
