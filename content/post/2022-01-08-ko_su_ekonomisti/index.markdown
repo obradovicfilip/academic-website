@@ -20,6 +20,16 @@ projects: []
 draft: FALSE
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V51E9T5SEV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V51E9T5SEV');
+</script>
+
 Na našem podneblju su uobičajene nejasnoće vezane za to ko su i čime se tačno bave **ekonomisti**, zašto i da li razmišljati o doktoratu iz ekonomije i šta on donosi u dugom roku. Lično sam delio iste nedoumice pre nekoliko godina kada sam morao da donesem odluku o daljem toku svojih studija. Kako nisam imao nikoga ko bi mi pomogao da dobijem odgovore na mnogobrojna postavljena pitanja, rešio sam da kroz seriju tekstova pokušam da doprinesem snižavanju izražene informacione barijere. Nadam se da će oni koristiti mlađim koleginicama i kolegama da donesu promišljenu odluku oko toga koji put je najbolji za njih, kakav god on bio. Tekst ispod je pisan iz perspektive studenta i ekonomiste u SAD i ne mora nužno biti reprezentativan za ostale delove sveta.
 
 ## Ko su ekonomisti?
