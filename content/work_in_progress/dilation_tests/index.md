@@ -1,6 +1,6 @@
 ---
 title: "Binary Classifiers as Dilations: An Application to Diagnostic Testing"
-summary: "with Gabriel Ziegler \n\n"
+summary: "with Gabriel Ziegler \n\n Equivalence result and statistical inference for dilation of binary classifiers due to imperfect references."
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2022-09-24T00:00:00Z"
