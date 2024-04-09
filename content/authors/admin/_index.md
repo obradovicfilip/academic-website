@@ -40,6 +40,6 @@ highlight_name: true
 title: Filip Obradović
 email: ""
 ---
-I am a fifth year economics Ph.D. candidate at [Northwestern University](https://economics.northwestern.edu/). My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I aim to develop tools applicable to economics, health and medical research.
+I am a fifth year economics Ph.D. candidate at [Northwestern University](https://economics.northwestern.edu/). My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I aim to develop tools applicable to economics, health, and medical research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/obradovic-vita.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
