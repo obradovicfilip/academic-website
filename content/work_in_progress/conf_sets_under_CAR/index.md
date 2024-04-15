@@ -1,5 +1,5 @@
 ---
-title: "Inference on ATE in RCTs with Imperfect Compliance under Covariate Adaptive Randomization"
+title: "Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"
 summary: "with Federico Bugni, Mengsi Gao, and Amilcar Velez \n\n"
 
 date: "2022-09-24T00:00:00Z"
