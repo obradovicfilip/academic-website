@@ -14,7 +14,7 @@ projects: []
 draft: FALSE
 ---
 
-Students from Serbia and other ex-Yugoslavian countries rarely choose to apply to leading programs in economics and related fields. Based on personal experience, a major contributor to this phenomenon is the absence of guidance and a dearth of easily accessible information. Regardless of how strange this may initially sound given the abundance of guides available online, it is not at all surprising. 
+Students from Serbia and other ex-Yugoslavian countries rarely choose to apply to leading programs in economics and related fields. Based on personal experience, a major contributor to this phenomenon is the absence of guidance and a dearth of easily accessible information. This may sound strange given the abundance of guides available online. However, it is not at all surpising. 
 
 Imagine for a moment that you never had a chance to speak to a single doctoral student at a research university or a graduate, nor to hear about Urch or Gradcafe. Suppose that nearly all your professors obtained their Ph.D. degrees at their current institutions and that they are unfamiliar with other programs. What if your only sources of information were random undirected Google searches and the odd departmental prospective students page? Would doing a Ph.D. at a program you likely have never even heard of truly top your list of choices, or would you be more inclined to follow the path that the students before you have taken?
 
