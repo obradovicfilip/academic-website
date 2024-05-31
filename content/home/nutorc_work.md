@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: NUTORC Research
-subtitle: ''
+subtitle:'I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.'
 
 content:
   # Page type to display. E.g. project.
@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
