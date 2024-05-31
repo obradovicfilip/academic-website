@@ -35,6 +35,9 @@ url_video: ""
 Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez
 
 ---
+
+Joint with Federico Bugni, Mengsi Gao, and Amilcar Velez.
+
 **Abstract**: Randomized controlled trials (RCTs) frequently utilize covariate-adaptive randomization (CAR) (e.g., stratified block randomization) and commonly suffer from imperfect compliance. This paper studies the identification and inference for the average treatment effect (ATE) and the average treatment effect on the treated (ATT) in such RCTs with a binary treatment.
 
 We first develop characterizations of the identified sets for both estimands. Since data are generally not i.i.d. under CAR, these characterizations do not follow from existing results. We then provide consistent estimators of the identified sets and asymptotically valid confidence intervals for the parameters. Our asymptotic analysis leads to concrete practical recommendations regarding how to estimate the treatment assignment probabilities that enter in estimated bounds. In the case of the ATE, using sample analog assignment frequencies is more efficient than using the true assignment probabilities. On the contrary, using the true assignment probabilities is preferable for the ATT.
