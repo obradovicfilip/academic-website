@@ -3,7 +3,7 @@ title: "Inference on Treatment Effects under Covariate-Adaptive Randomization an
 summary: "with Federico Bugni, Mengsi Gao, and Amilcar Velez \n\n Identification and inference in stratified randomized controlled trials with imperfect compliance."
 
 date: "2022-09-24T00:00:00Z"
-lastmod: "2022-09-24T00:00:00Z"
+lastmod: "2024-05-31T00:00:00Z"
 
 Type: work_in_progress
 
