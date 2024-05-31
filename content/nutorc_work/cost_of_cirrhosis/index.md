@@ -6,11 +6,11 @@ lastmod: "2024-05-31T00:00:00Z"
 
 Type: nutorc_work
 
-url_code: https://github.com/obradovicfilip/bounding_test_performance
+# url_code: 
 url_pdf: ""
 url_appendix: ""
-url_pdf: http://arxiv.org/abs/2204.00180
-# url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
+# url_pdf: 
+# url_slides: 
 url_video: ""
 
 ---
