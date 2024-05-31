@@ -14,8 +14,8 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  'I collaborate with the [Nortwestern University Transplant Outcome Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.'
   page_type: nutorc_work
+  subtitle:'I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.'
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
