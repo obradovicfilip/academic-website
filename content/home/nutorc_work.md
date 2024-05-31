@@ -9,11 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: NUTORC Research
-subtitle: 'I collaborate with the [Nortwestern University Transplant Outcome Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.'
+title: Work with NUTORC
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
+  'I collaborate with the [Nortwestern University Transplant Outcome Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.'
   page_type: nutorc_work
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
