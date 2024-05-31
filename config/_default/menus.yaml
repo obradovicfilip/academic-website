@@ -18,6 +18,9 @@ main:
   - name: Work in Progress
     url: '#work_in_progress'
     weight: 40
+  - name: NUTORC
+    url: '#nutorc_work'
+    weight: 50
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
