@@ -42,6 +42,6 @@ email: ""
 ---
 I am a fifth year economics Ph.D. candidate at [Northwestern University](https://economics.northwestern.edu/). My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I aim to develop tools applicable to economics, health, and medical research.
 
-I also collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html).
+I also collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/obradovic-vita.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
