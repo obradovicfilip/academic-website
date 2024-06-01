@@ -10,9 +10,13 @@ headless: true
 weight: 50
 
 title: NUTORC Research 
-subtitle: '[Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html)'
+subtitle: ''
 
 content:
+  # Text block to add your collaboration note.
+  - type: text
+    content: |
+      I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
   # Page type to display. E.g. project.
   page_type: nutorc_work
 
