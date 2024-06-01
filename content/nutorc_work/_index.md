@@ -1,7 +1,7 @@
 ---
 title: NUTORC Research 
 cms_exclude: true
-layout: docs  # Try using a layout that supports content rendering
+layout: single
 
 # View.
 #   1 = List
@@ -14,3 +14,6 @@ header:
   caption: ""
   image: ""
 ---
+
+
+I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
