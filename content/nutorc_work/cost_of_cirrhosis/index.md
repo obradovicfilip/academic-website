@@ -14,6 +14,5 @@ url_appendix: ""
 url_video: ""
 
 ---
-Authors: Filip Obradović, Bima J. Hasjim, Dominic J. Vitello, Joy Obayemi, Praneet Polineni, Michael Gmeiner, Eleena Koep, Aditya Jain, Federico Crippa, Andrés Duarte-Rojo, Vinayak S. Rohan, Laura Kulik, Julianna M. Doll, Therese Banea, Gwen E. McNatt, Lihui Zhao, Lisa B. VanWagner, Charles F. Manski, Daniela P. Ladner
+Authors: Filip Obradović, Bima Hasjim, Dominic Vitello, Joy Obayemi, Praneet Polineni, Michael Gmeiner, Eleena Koep, Aditya Jain, Federico Crippa, Andrés Duarte-Rojo, Vinayak Rohan, Laura Kulik, Julianna Doll, Therese Banea, Gwen McNatt, Lihui Zhao, Lisa VanWagner, Charles Manski, Daniela Ladner
 
-**Abstract**: TBA
