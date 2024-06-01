@@ -15,5 +15,3 @@ header:
   image: ""
 ---
 
-
-I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
