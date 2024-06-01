@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: NUTORC Research 
-subtitle: '[Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html)'
+title: [NUTORC](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) Research 
+subtitle: 'Northwestern University Transplant Outcomes Research Collaborative'
 
 content:
   # Page type to display. E.g. project.
