@@ -32,7 +32,7 @@ url_video: ""
 
 # Subtitle was Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials.
 
-Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez
+Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez (Submitted)
 
 ---
 
