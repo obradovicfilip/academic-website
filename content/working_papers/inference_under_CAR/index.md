@@ -1,6 +1,6 @@
 ---
 title: "Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"
-summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) \n\n Identification and inference in stratified randomized controlled trials with imperfect compliance."
+summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted) \n\n Identification and inference in stratified randomized controlled trials with imperfect compliance."
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-06-12T00:00:00Z"
@@ -32,7 +32,7 @@ url_video: ""
 
 # Subtitle was Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials.
 
-Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez (Submitted)
+Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez 
 
 ---
 
