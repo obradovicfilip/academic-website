@@ -6,6 +6,13 @@ lastmod: "2022-03-31T00:00:00Z"
 
 Type: working_papers
 
+# Optional external URL for project (replaces project detail page).
+share: false
+external_link: ""
+weight: 1
+image:
+  focal_point: Center
+
 url_code: https://github.com/obradovicfilip/bounding_test_performance
 url_pdf: ""
 url_appendix: ""
