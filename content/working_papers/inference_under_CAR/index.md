@@ -5,7 +5,7 @@ summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
-Type: work_in_progress
+Type: working_papers
 
 # Optional external URL for project (replaces project detail page).
 share: false
