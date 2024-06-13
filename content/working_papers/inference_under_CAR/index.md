@@ -3,7 +3,7 @@ title: "Inference on Treatment Effects under Covariate-Adaptive Randomization an
 summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) \n\n Identification and inference in stratified randomized controlled trials with imperfect compliance."
 
 date: "2022-09-24T00:00:00Z"
-lastmod: "2024-05-31T00:00:00Z"
+lastmod: "2024-06-12T00:00:00Z"
 
 Type: working_papers
 
@@ -15,7 +15,7 @@ image:
   focal_point: Center
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2406.08419"
 url_appendix: ""
 # url_pdf: "https://www.dropbox.com/s/csk96o3tz535y4j/VI.pdf?dl=0"
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
@@ -36,7 +36,7 @@ Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez
 
 ---
 
-Joint with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/). (Submitted)
+Joint with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/). 
 
 **Abstract**: Randomized controlled trials (RCTs) frequently utilize covariate-adaptive randomization (CAR) (e.g., stratified block randomization) and commonly suffer from imperfect compliance. This paper studies the identification and inference for the average treatment effect (ATE) and the average treatment effect on the treated (ATT) in such RCTs with a binary treatment.
 
