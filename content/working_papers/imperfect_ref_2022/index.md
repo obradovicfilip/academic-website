@@ -23,6 +23,6 @@ url_video: ""
 ---
 Author: Filip Obradović
 
-(Minor revision requested at the Journal of Econometrics)
+(Conditionally accepted at the Journal of Econometrics)
 
 **Abstract**: Diagnostic tests are almost never perfect. Studies quantifying their performance use knowledge of the true health status, measured with a reference diagnostic test. Researchers commonly assume that the reference test is perfect, which is not the case in practice. When the assumption fails, conventional studies identify only the "apparent" performance or performance with respect to the reference that is not of interest. This paper provides the smallest possible bounds on the measures of true performance - sensitivity and specificity, in standard settings. Existing methods for inference based on moment inequalities are used to construct uniformly consistent confidence sets in level over a relevant family of data distributions. Analysis of published studies for the ubiquitous Abbott BinaxNOW COVID-19 Ag2 CARD antigen test demonstrates that the bound estimates can be very informative. Under plausible assumptions, estimates based on the Emergency Use Authorization (EUA) study data reveal that the false negative rates can be up to 3.17 times higher than the frequently cited "apparent" false negative rate. Independent study data show the estimated false negative rates in asymptomatic patients are up to 4.59 times higher than the cited "apparent" figure, warranting further attention.
