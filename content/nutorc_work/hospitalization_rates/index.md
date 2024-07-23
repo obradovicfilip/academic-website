@@ -1,6 +1,6 @@
 ---
 title: "Hospitalization Rates in a Longitudinal US Cohort of Insured Patients with Cirrhosis"
-summary: ""
+summary: "Characterization of trends of hospitalization rates for patients with cirrhosis."
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
