@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -46,5 +46,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
-I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
