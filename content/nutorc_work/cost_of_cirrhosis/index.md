@@ -13,6 +13,13 @@ url_appendix: ""
 # url_slides: 
 url_video: ""
 
+# Optional external URL for project (replaces project detail page).
+share: false
+external_link: ""
+weight: 1
+image:
+  focal_point: Center
+
 ---
 Authors: Filip Obradović, Bima Hasjim, Dominic Vitello, Joy Obayemi, Praneet Polineni, Michael Gmeiner, Eleena Koep, Aditya Jain, Federico Crippa, Andrés Duarte-Rojo, Vinayak Rohan, Laura Kulik, Julianna Doll, Therese Banea, Gwen McNatt, Lihui Zhao, Lisa VanWagner, Charles Manski, Daniela Ladner
 
