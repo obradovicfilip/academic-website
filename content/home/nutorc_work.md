@@ -45,6 +45,8 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+
+  # I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
 ---
 
-# I collaborate with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
+
