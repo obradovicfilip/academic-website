@@ -1,6 +1,6 @@
 ---
 title: "Predicting Decompensation Risk of Patients with Cirrhosis"
-summary: ""
+summary: "Modelling of 1-year risk of decompensation for newly diagnosed patients with cirrhosis."
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
