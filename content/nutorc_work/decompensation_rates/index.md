@@ -1,6 +1,6 @@
 ---
 title: "Predicting Decompensation Risk of Patients with Cirrhosis"
-summary: "with [NUTORC](https://www.feinberg.northwestern.edu/sites/nutorc/index.html)"
+summary: ""
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
