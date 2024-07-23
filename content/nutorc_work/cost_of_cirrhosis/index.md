@@ -1,6 +1,6 @@
 ---
 title: "Comparing the Cost of Cirrhosis to Other Common Chronic Diseases: A Longitudinal Study in A Large National Insurance Database (First Author)"
-summary: "Measurement of costs of treatment for patients with liver cirrhosis and comparison with commonly discussed chronic illnesses. \n\n (Reject and resubmit at Hepatology)"
+summary: "(Reject and resubmit at Hepatology) \n\n Measurement of costs of treatment for patients with liver cirrhosis and comparison with commonly discussed chronic illnesses."
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
