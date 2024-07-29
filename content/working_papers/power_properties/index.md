@@ -1,6 +1,6 @@
 ---
 title: "On the Power Properties of Inference for Parameters with Interval Identified Sets"
-summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted) \n\n Companion paper to ["Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"](https://filipobradovic.com/working_papers/inference_under_car/)"
+summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted) \n\n Companion paper to ["Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"](https://filipobradovic.com/working_papers/inference_under_car/)."
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-07-29T00:00:00Z"
@@ -29,6 +29,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+# Subtitle was Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials.
 
 Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez 
 
