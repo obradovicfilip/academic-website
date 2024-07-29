@@ -1,9 +1,9 @@
 ---
-title: "On the Power Properties of Inference for Parameters with Interval Identified Sets"
-summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted) \n\n Companion paper to ["Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"](https://filipobradovic.com/working_papers/inference_under_car/)."
+title: "Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"
+summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted) \n\n Identification and inference in stratified randomized controlled trials with imperfect compliance."
 
 date: "2022-09-24T00:00:00Z"
-lastmod: "2024-07-29T00:00:00Z"
+lastmod: "2024-06-12T00:00:00Z"
 
 Type: working_papers
 
@@ -38,4 +38,6 @@ Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez
 
 Joint with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/). 
 
-**Abstract**: This paper studies a specific inference problem for a partially-identified parameter of interest with an interval identified set. We consider the favorable situation in which a researcher has two possible estimators to construct the confidence interval proposed in Imbens and Manski (2004) and Stoye (2009), and one is more efficient than the other. While the literature shows that both estimators deliver asymptotically exact confidence intervals for the parameter of interest, their inference in terms of statistical power is not compared. One would expect that using the more efficient estimator would result in more powerful inference. We formally prove this result.
+**Abstract**: Randomized controlled trials (RCTs) frequently utilize covariate-adaptive randomization (CAR) (e.g., stratified block randomization) and commonly suffer from imperfect compliance. This paper studies the identification and inference for the average treatment effect (ATE) and the average treatment effect on the treated (ATT) in such RCTs with a binary treatment.
+
+We first develop characterizations of the identified sets for both estimands. Since data are generally not i.i.d. under CAR, these characterizations do not follow from existing results. We then provide consistent estimators of the identified sets and asymptotically valid confidence intervals for the parameters. Our asymptotic analysis leads to concrete practical recommendations regarding how to estimate the treatment assignment probabilities that enter in estimated bounds. In the case of the ATE, using sample analog assignment frequencies is more efficient than using the true assignment probabilities. On the contrary, using the true assignment probabilities is preferable for the ATT.
