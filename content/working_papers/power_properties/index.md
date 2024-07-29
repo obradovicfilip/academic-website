@@ -30,8 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 
-
-
 Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez 
 
 ---
