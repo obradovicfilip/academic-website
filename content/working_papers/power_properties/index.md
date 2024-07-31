@@ -15,7 +15,7 @@ image:
   focal_point: Center
 
 url_code: ""
-url_pdf: "https://arxiv.org/abs/2406.08419"
+url_pdf: "https://arxiv.org/abs/2407.20386"
 url_appendix: ""
 # url_pdf: "https://www.dropbox.com/s/csk96o3tz535y4j/VI.pdf?dl=0"
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
@@ -39,5 +39,3 @@ Author: Federico Bugni, Mengsi Gao, Filip Obradović, Amilcar Velez
 Joint with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://www.econ.berkeley.edu/grad/profiles/14733), and [Amilcar Velez](https://www.amilcarvelez.com/). 
 
 **Abstract**: This paper studies a specific inference problem for a partially-identified parameter of interest with an interval identified set. We consider the favorable situation in which a researcher has two possible estimators to construct the confidence interval proposed in Imbens and Manski (2004) and Stoye (2009), and one is more efficient than the other. While the literature shows that both estimators deliver asymptotically exact confidence intervals for the parameter of interest, their inference in terms of statistical power is not compared. One would expect that using the more efficient estimator would result in more powerful inference. We formally prove this result.
-
-(Draft Coming Soon)
