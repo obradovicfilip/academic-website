@@ -1,6 +1,6 @@
 ---
 title: "On the Power Properties of Inference for Parameters with Interval Identified Sets"
-summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://sites.google.com/view/mengsi-gao/), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted)''."
+summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://sites.google.com/view/mengsi-gao/), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted)."
 
 # date: "2022-09-24T00:00:00Z"
 # lastmod: "2024-07-29T00:00:00Z"
