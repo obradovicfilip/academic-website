@@ -1,8 +1,8 @@
 ---
 title: "Measuring Diagnostic Test Performance Using Imperfect Reference Tests: A Partial Identification Approach"
 summary: "Filip Obradović (Forthcoming at the *Journal of Econometrics*)."
-# date: "2022-03-31T00:00:00Z"
-# lastmod: "2024-08-19T00:00:00Z"
+date: "2022-03-31T00:00:00Z"
+lastmod: "2024-08-19T00:00:00Z"
 
 Type: working_papers
 
@@ -10,8 +10,8 @@ Type: working_papers
 share: false
 external_link: ""
 weight: 1
-image:
-  focal_point: Center
+# image:
+  # focal_point: Center
 
 url_code: https://github.com/obradovicfilip/bounding_test_performance
 url_pdf: ""
