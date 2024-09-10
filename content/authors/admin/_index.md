@@ -44,5 +44,7 @@ I am a sixth year economics Ph.D. candidate at [Northwestern University](https:/
 
 I also collaborate with the [Northwestern University Transplant Outcomes Research Collaborative (NUTORC)](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
 
+I was born and raised in Serbia.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/obradovic-vita.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
