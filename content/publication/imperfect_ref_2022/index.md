@@ -4,7 +4,7 @@ summary: "Filip Obradović. *Journal of Econometrics*, Volume 244, Issue 1, Augu
 date: "2022-03-31T00:00:00Z"
 lastmod: "2024-08-19T00:00:00Z"
 
-Type: working_papers
+Type: publication
 
 # Optional external URL for project (replaces project detail page).
 share: false
