@@ -1,6 +1,6 @@
 ---
 title: "Measuring Diagnostic Test Performance Using Imperfect Reference Tests: A Partial Identification Approach"
-summary: "Filip Obradović (Forthcoming at the *Journal of Econometrics*)."
+summary: "Filip Obradović. *Journal of Econometrics*, Volume 244, Issue 1, August 2024."
 date: "2022-03-31T00:00:00Z"
 lastmod: "2024-08-19T00:00:00Z"
 
