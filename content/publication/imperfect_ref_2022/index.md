@@ -1,29 +1,27 @@
 ---
-abstract: "Diagnostic test performance is measured with respect to the true health status commonly determined using an imperfect reference test. To attain point identification, researchers often assume that the references are infallible, risking misleading conclusions. Without the assumption sensitivity and specificity are partially identified. I derive their smallest possible joint identification regions in standard test performance studies when reference test performance measures are either known precisely or to be in some bounded set. I formalize existing informally stated assumptions on dependence between the reference and tests of interest and characterize smaller identification regions when they hold. In my discussion, I provide an inference procedure that yields confidence sets that are uniformly consistent in level over the class of relevant of distributions. I outline two important use-cases for the identification regions: $1)$ bounding prevalence for population screening tests; $2)$ bounding predictive values. Finally, I analyze the performance of the Abbott BinaxNow COVID-19 rapid antigen tests using the framework. I provide estimated identification regions and confidence sets for all currently available COVID-19 rapid antigen tests in the US under the Emergency Use Authorization."
-slides: ""
+title: "Measuring Diagnostic Test Performance Using Imperfect Reference Tests: A Partial Identification Approach"
+summary: "Filip Obradović (Forthcoming at the *Journal of Econometrics*)."
+date: "2022-03-31T00:00:00Z"
+lastmod: "2024-08-19T00:00:00Z"
+
+Type: working_papers
+
+# Optional external URL for project (replaces project detail page).
+share: false
+external_link: ""
+weight: 1
+# image:
+  # focal_point: Center
+
+url_code: https://github.com/obradovicfilip/bounding_test_performance
 url_pdf: ""
-publication_types:
-  - "3"
-authors:
-  - admin
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
+url_appendix: ""
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0304407624001878?dgcid=author 
+# http://arxiv.org/abs/2204.00180
+# url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
 url_video: ""
-publication: "Working Paper"
-featured: true
-date: 2022-01-07T00:00:00Z
-url_slides: ""
-title: "Sensitivity and Specificity Measurement Using an Imperfect Gold Standard: Identification and Inference"
-tags: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-publishDate: 2022-01-07T00:00:00Z
-url_poster: ""
-url_code: ""
-doi: ""
+
 ---
+Author: Filip Obradović. *Journal of Econometrics*, Volume 244, Issue 1, August 2024.
+
+**Abstract**: Diagnostic tests are almost never perfect. Studies quantifying their performance use knowledge of the true health status, measured with a reference diagnostic test. Researchers commonly assume that the reference test is perfect, which is often not the case in practice. When the assumption fails, conventional studies identify "apparent" performance or performance with respect to the reference, but not true performance. This paper provides the smallest possible bounds on the measures of true performance - sensitivity (true positive rate) and specificity (true negative rate), or equivalently false positive and negative rates, in standard settings. Implied bounds on policy-relevant parameters are derived: 1) Prevalence in screened populations; 2) Predictive values. Methods for inference based on moment inequalities are used to construct uniformly consistent confidence sets in level over a relevant family of data distributions. Emergency Use Authorization (EUA) and independent study data for the BinaxNOW COVID-19 antigen test demonstrate that the bounds can be very informative. Analysis reveals that the estimated false negative rates for symptomatic and asymptomatic patients are up to 3.17 and 4.59 times higher than the frequently cited "apparent" false negative rate. Further applicability of the results in the context of imperfect proxies such as survey responses and imputed protected classes is indicated.
