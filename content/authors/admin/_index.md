@@ -40,7 +40,7 @@ highlight_name: true
 title: Filip Obradović
 email: ""
 ---
-I am a sixth year economics Ph.D. candidate at [Northwestern University](https://economics.northwestern.edu/) on the 2024-2025 job market. My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I aim to develop tools applicable to economics, health, and medical research.
+I am a sixth-year economics Ph.D. candidate at [Northwestern University](https://economics.northwestern.edu/) on the 2024-2025 job market. My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I develop and apply tools to address open problems in economics, health, and medical research.
 
 I also collaborate with the [Northwestern University Transplant Outcomes Research Collaborative (NUTORC)](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
 
