@@ -16,7 +16,7 @@ weight: 1
 url_code: https://github.com/obradovicfilip/bounding_test_performance
 url_pdf: ""
 url_appendix: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0304407624001878?dgcid=author 
+url_pdf: https://filipobradovic.com/uploads/Obradovic%202024%20Diagnostic%20Tests.pdf
 # http://arxiv.org/abs/2204.00180
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
 url_video: ""
