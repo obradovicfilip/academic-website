@@ -1,5 +1,5 @@
 ---
-title: "Binary Classifiers as Dilations: An Application to Diagnostic Testing"
+title: "Binary Classifiers as Dilations"
 summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/)"
 
 date: "2022-09-24T00:00:00Z"
@@ -29,8 +29,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-
-# Subtitle was Determining the ATE on health outcomes measured using imperfect diagnostic tests in randomized controlled trials.
 
 Author: Filip Obradović, Gabrial Ziegler
 
