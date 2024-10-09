@@ -47,4 +47,4 @@ I also collaborate with the [Northwestern University Transplant Outcomes Researc
 I was born and raised in Serbia.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/obradovic-vita.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Obradovic Vita NU.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
