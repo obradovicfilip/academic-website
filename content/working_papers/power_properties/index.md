@@ -15,7 +15,7 @@ image:
   focal_point: Center
 
 url_code: ""
-url_pdf: "https://arxiv.org/abs/2407.20386"
+url_pdf: "https://arxiv.org/pdf/2407.20386"
 url_appendix: ""
 # url_pdf: "https://www.dropbox.com/s/csk96o3tz535y4j/VI.pdf?dl=0"
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
