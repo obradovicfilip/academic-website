@@ -1,8 +1,8 @@
 ---
 title: "Identification of Long-Term Treatment Effects via Temporal Links, Observational and Experimental Data"
 summary:
-date: "2022-09-24T00:00:00Z"
-lastmod: "2024-07-29T00:00:00Z"
+date: ""
+lastmod: ""
 
 Type: job_market_paper
 
