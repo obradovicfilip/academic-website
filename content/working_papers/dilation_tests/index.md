@@ -5,7 +5,7 @@ summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/)"
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-02-09T00:00:00Z"
 
-Type: work_in_progress
+Type: working_papers
 
 # Optional external URL for project (replaces project detail page).
 share: false
