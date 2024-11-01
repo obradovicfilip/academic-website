@@ -1,6 +1,6 @@
 ---
 title: "Binary Classifiers as Dilations"
-summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/)"
+summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/). *Draft coming soon*"
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-02-09T00:00:00Z"
@@ -30,7 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 
-Author: Filip Obradović, Gabrial Ziegler
+Author: Filip Obradović, Gabriel Ziegler
 
 ---
 
