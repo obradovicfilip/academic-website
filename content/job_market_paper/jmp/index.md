@@ -1,5 +1,5 @@
 ---
-title: "Identification of Long-Term Treatment Effects via Temporal Links, Observational and Experimental Data"
+title: "Identification of Long-Term Treatment Effects via Temporal Links, Observational, and Experimental Data"
 summary:
 date: ""
 lastmod: ""
