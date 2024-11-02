@@ -1,6 +1,6 @@
 ---
 title: "Binary Classifiers as Dilations"
-summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/). *(Draft coming soon)*"
+summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/)."
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-02-09T00:00:00Z"
