@@ -46,7 +46,7 @@ I also collaborate with the [Northwestern University Transplant Outcomes Researc
 
 I was born and raised in Serbia.
 
-You can find my job market website [here](https://sites.northwestern.edu/fod1360/) and download my job market paper [here](https://filipobradovic.com/uploads/Obradovic_JMP.pdf).
+You can find my [job market website here](https://sites.northwestern.edu/fod1360/) and download my [job market paper here](https://filipobradovic.com/uploads/Obradovic_JMP.pdf).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Obradovic Vita NU.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
