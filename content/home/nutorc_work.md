@@ -46,6 +46,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
- All work is done in collaboration with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html).
+
+ All work is done in collaboration with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html). Drafts are currently unavailable for circulation due to publication restrictions.
 
 
