@@ -1,6 +1,6 @@
 ---
 title: "Predicting Decompensation Risk of Patients with Cirrhosis"
-summary: " "
+summary: ""
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
@@ -16,7 +16,7 @@ url_video: ""
 # Optional external URL for project (replaces project detail page).
 share: false
 external_link: ""
-weight: 2
+weight: 4
 image:
   focal_point: Center
 
