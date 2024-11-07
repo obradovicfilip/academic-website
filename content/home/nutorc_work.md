@@ -47,6 +47,6 @@ design:
   flip_alt_rows: false
 ---
 
- All work is done in collaboration with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html). Drafts are currently unavailable for circulation due to publication restrictions.
+ All work is done in collaboration with the [Northwestern University Transplant Outcomes Research Collaborative](https://www.feinberg.northwestern.edu/sites/nutorc/index.html). Some drafts are currently unavailable for circulation due to publication restrictions.
 
 
