@@ -48,9 +48,4 @@ I was born and raised in Serbia.
 
 I will join the [Department of Economics at UCLA](https://economics.ucla.edu/) as an Assistant Professor in July 2025. 
 
-Links:
-  - [Job market website](https://sites.northwestern.edu/fod1360/)
-  - [Job market paper](https://filipobradovic.com/uploads/Obradovic_JMP.pdf)
-  - [Teaching evaluations](https://filipobradovic.com/uploads/Obradovic_Teaching_Summary.pdf)
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Obradovic Vita NU.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
