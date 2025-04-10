@@ -46,6 +46,8 @@ I also collaborate with the [Northwestern University Transplant Outcomes Researc
 
 I was born and raised in Serbia.
 
+I will join the [Department of Economics at UCLA](https://economics.ucla.edu/) as an Assistant Professor in July 2025. 
+
 Links:
   - [Job market website](https://sites.northwestern.edu/fod1360/)
   - [Job market paper](https://filipobradovic.com/uploads/Obradovic_JMP.pdf)
