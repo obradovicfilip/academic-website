@@ -1,6 +1,10 @@
 ---
 role: Assistant Professor of Economics
 bio: Econometrics, applied and medical econometrics
+# interests:
+  - Econometrics
+  - Applied Econometrics
+  - Applied Microeconomics
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,7 +18,7 @@ social:
 organizations:
   - name: UCLA
     url: https://economics.ucla.edu/
-education:
+# education:
   courses:
     - course: Ph.D. Economics
       institution: Northwestern University
