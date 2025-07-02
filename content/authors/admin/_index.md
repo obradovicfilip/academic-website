@@ -16,8 +16,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/filip-obradovic
 organizations:
-  - name: Northwestern University
-    url: https://economics.northwestern.edu/
+  - name: UCLA
+    url: https://economics.ucla.edu/
 education:
   courses:
     - course: Ph.D. Economics
