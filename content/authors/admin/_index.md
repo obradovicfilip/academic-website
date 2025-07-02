@@ -1,10 +1,6 @@
 ---
 role: Assistant Professor of Economics
 bio: Econometrics, applied and medical econometrics
-interests:
-  - Econometrics
-  - Applied Econometrics
-  - Applied Microeconomics
 social:
   - icon: envelope
     icon_pack: fas
