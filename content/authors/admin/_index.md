@@ -1,10 +1,7 @@
 ---
 role: Assistant Professor of Economics
 bio: Econometrics, applied and medical econometrics
-# interests:
-  - Econometrics
-  - Applied Econometrics
-  - Applied Microeconomics
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,27 +15,31 @@ social:
 organizations:
   - name: UCLA
     url: https://economics.ucla.edu/
-# education:
-# courses:
-    - course: Ph.D. Economics
-      institution: Northwestern University
-      year: 2025
-    - course: M.A. Economics
-      institution: Northwestern University
-      year: 2020
-    - course: M.Sc. Quantitative Finance
-      institution: University of Belgrade
-      year: 2019
-    - course: M.Sc. Econometrics
-      institution: University of Belgrade
-      year: 2018
-    - course: B.Sc. Economics
-      institution: University of Belgrade
-      year: 2015
 superuser: true
 highlight_name: true
 title: Filip Obradović
 email: ""
+# education:
+# courses:
+#    - course: Ph.D. Economics
+#      institution: Northwestern University
+#      year: 2025
+#    - course: M.A. Economics
+#      institution: Northwestern University
+#      year: 2020
+#    - course: M.Sc. Quantitative Finance
+#      institution: University of Belgrade
+#      year: 2019
+#    - course: M.Sc. Econometrics
+#      institution: University of Belgrade
+#      year: 2018
+#    - course: B.Sc. Economics
+#      institution: University of Belgrade
+#      year: 2015
+# interests:
+#  - Econometrics
+#  - Applied Econometrics
+#  - Applied Microeconomics
 ---
 
 I am an Assistant Professor of Economics at the [Department of Economics at UCLA](https://economics.ucla.edu/). I have received my Ph.D. from [Northwestern University](https://economics.northwestern.edu/). My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I develop and apply tools to address open problems in economics, health, and medical research.
