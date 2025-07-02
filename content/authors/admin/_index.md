@@ -40,12 +40,11 @@ highlight_name: true
 title: Filip Obradović
 email: ""
 ---
-I am a sixth-year economics Ph.D. candidate at [Northwestern University](https://economics.northwestern.edu/). My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I develop and apply tools to address open problems in economics, health, and medical research.
+
+I am an Assistant Professor of Economics at the [Department of Economics at UCLA](https://economics.ucla.edu/). I have received my Ph.D. from [Northwestern University](https://economics.northwestern.edu/). My primary interests lie in econometrics, with an emphasis on identification and inference. In my work, I develop and apply tools to address open problems in economics, health, and medical research.
 
 I also collaborate with the [Northwestern University Transplant Outcomes Research Collaborative (NUTORC)](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) on various projects related to liver cirrhosis.
 
 I was born and raised in Serbia.
-
-I will join the [Department of Economics at UCLA](https://economics.ucla.edu/) as an Assistant Professor in July 2025. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Obradovic Vita NU.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
