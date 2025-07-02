@@ -19,7 +19,7 @@ organizations:
   - name: UCLA
     url: https://economics.ucla.edu/
 # education:
-  courses:
+# courses:
     - course: Ph.D. Economics
       institution: Northwestern University
       year: 2025
