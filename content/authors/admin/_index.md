@@ -22,7 +22,7 @@ education:
   courses:
     - course: Ph.D. Economics
       institution: Northwestern University
-      year: in progress
+      year: 2025
     - course: M.A. Economics
       institution: Northwestern University
       year: 2020
