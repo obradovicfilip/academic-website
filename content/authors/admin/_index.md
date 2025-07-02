@@ -1,5 +1,5 @@
 ---
-role: Economics Ph.D. Candidate
+role: Assistant Professor of Economics
 bio: Econometrics, applied and medical econometrics
 interests:
   - Econometrics
