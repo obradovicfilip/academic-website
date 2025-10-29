@@ -16,7 +16,7 @@ image:
 
 url_code: ""
 url_appendix: ""
-url_pdf: "https://filipobradovic.com/uploads/Obradovic_JMP.pdf"
+url_pdf: "https://filipobradovic.com/uploads/Obradovic_long_term_effects.pdf"
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
 url_video: ""
 
