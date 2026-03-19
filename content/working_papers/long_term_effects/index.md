@@ -1,6 +1,6 @@
 ---
 title: "Identification of Long-Term Treatment Effects via Temporal Links, Observational, and Experimental Data"
-summary: "Filip Obradović.  <br>
+summary: "Filip Obradović.  <br>"
 date: ""
 lastmod: ""
 
