@@ -1,6 +1,6 @@
 ---
 title: "Identification and Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"
-summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://sites.google.com/view/mengsi-gao/), and [Amilcar Velez](https://www.amilcarvelez.com/) (Submitted)"
+summary: "with [Federico Bugni](https://sites.northwestern.edu/federicobugni/), [Mengsi Gao](https://sites.google.com/view/mengsi-gao/), and [Amilcar Velez](https://www.amilcarvelez.com/). Revisions requested at _Quantitative Economics_"
 
 date: "2022-09-24T00:00:00Z"
 lastmod: "2024-06-12T00:00:00Z"
