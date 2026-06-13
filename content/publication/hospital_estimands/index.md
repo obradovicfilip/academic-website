@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine"
-summary: "with Aditya Jain, Gil Peled, Filip Obradovic, Yeshaya Nussbaum, Michael Gmeiner, Daniela Ladner, Charles F. Manski. Forthcoming at *Health Economics*."
+summary: "with Aditya Jain, Gil Peled, Filip Obradovic, Yeshaya Nussbaum, Michael Gmeiner, Daniela Ladner, Charles F. Manski. Forthcoming at _Health Economics_."
 date: "2022-03-31T00:00:00Z"
 lastmod: "2024-08-19T00:00:00Z"
 
@@ -16,7 +16,7 @@ weight: 1
 url_code: https://github.com/obradovicfilip/hospital_estimands
 url_pdf: ""
 url_appendix: ""
-url_pdf: [https://filipobradovic.com/uploads/Obradovic%202024%20Diagnostic%20Tests.pdf](https://fedecrp.github.io/assets/papers/assessing_the_estimands_and_estimates.pdf)
+url_pdf: "https://www.nber.org/papers/w33768"
 # http://arxiv.org/abs/2204.00180
 # url_slides: "https://www.dropbox.com/s/39x3crbir04ri8h/slides.pdf?dl=0"
 url_video: ""
