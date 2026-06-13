@@ -9,7 +9,7 @@ Type: publication
 # Optional external URL for project (replaces project detail page).
 share: false
 external_link: ""
-weight: 2
+weight: 5
 # image:
   # focal_point: Center
 
