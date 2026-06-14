@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine"
-summary: "with Aditya Jain, Gil Peled, Federici Crippa, Yeshaya Nussbaum, Michael Gmeiner, Daniela Ladner, Charles F. Manski. Forthcoming at _Health Economics_."
+summary: "with Aditya Jain, Gil Peled, Federico Crippa, Yeshaya Nussbaum, Michael Gmeiner, Daniela Ladner, Charles F. Manski. Forthcoming at _Health Economics_."
 date: "2022-03-31T00:00:00Z"
 lastmod: "2024-08-19T00:00:00Z"
 
