@@ -4,7 +4,7 @@ summary: "First Author. *Hepatology* 82(2)."
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
-Type: nutorc_work
+Type: publication
 
 # url_code: 
 url_pdf: ""
