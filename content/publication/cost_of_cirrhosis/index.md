@@ -16,7 +16,7 @@ url_video: ""
 # Optional external URL for project (replaces project detail page).
 share: false
 external_link: ""
-weight: 1
+weight: 4
 image:
   focal_point: Center
 
