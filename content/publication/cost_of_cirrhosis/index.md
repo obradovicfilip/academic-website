@@ -23,8 +23,6 @@ image:
 ---
 Authors: Filip Obradović, Bima Hasjim, Dominic Vitello, Joy Obayemi, Praneet Polineni, Michael Gmeiner, Eleena Koep, Aditya Jain, Federico Crippa, Andrés Duarte-Rojo, Vinayak Rohan, Laura Kulik, Julianna Doll, Therese Banea, Gwen McNatt, Lihui Zhao, Lisa VanWagner, Charles Manski, Daniela Ladner
 
-**Abstract**
-
 **Background and Aims:**
 
 Cirrhosis prevalence is increasing, yet costs associated with its chronic, complex care are poorly understood. The aim was to characterize the costs of care for patients with cirrhosis and compare them to other chronic diseases such as heart failure (HF) and chronic obstructive pulmonary disease (COPD), for which the public health burden is better recognized.
