@@ -1,6 +1,6 @@
 ---
 title: "Comparing the Cost of Cirrhosis to Other Common Chronic Diseases: A Longitudinal Study in A Large National Insurance Database"
-summary: "First Author. *Hepatology* 82(2)."
+summary: "with [NUTORC](https://www.feinberg.northwestern.edu/sites/nutorc/index.html) (First Author). **Hepatology** 82(2)."
 date: "2024-05-31T00:00:00Z"
 lastmod: "2024-05-31T00:00:00Z"
 
