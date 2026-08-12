@@ -1,6 +1,6 @@
 ---
 title: "Identification of Long-Term Treatment Effects via Temporal Links, Observational, and Experimental Data"
-summary: "Filip Obradović. Revisions requested at **Econometrica**. <br>"
+summary: "Filip Obradović. Revisions requested at _**Econometrica**_. <br>"
 date: ""
 lastmod: ""
 
