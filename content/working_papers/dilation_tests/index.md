@@ -1,5 +1,5 @@
 ---
-title: "Binary Classifiers as Dilations"
+title: "Knowing Less After a Diagnostic Test: Dilation in Clinical Decision-Making"
 summary: "with [Gabriel Ziegler](https://www.gabriel-ziegler.com/)."
 
 date: "2022-09-24T00:00:00Z"
@@ -36,4 +36,4 @@ Author: Filip Obradović, Gabriel Ziegler
 
 Joint with [Gabriel Ziegler](https://www.gabriel-ziegler.com/).
 
-**Abstract**: Seidenfeld and Wasserman (1993) define the phenomenon of *dilation*. When a dilation occurs, any additional information only *increases* the *uncertainty* about the true state of the world. In this paper, we show that dilation may manifest in real-world scenarios when information is provided by binary classifiers, such as diagnostic tests and predictive algorithms. This can happen when classifier performance measures are partially identified due to an imperfect reference classifier, which is common in practice. We characterize when a dilation occurs and develop corresponding inference procedures based on methods for subvector inference in moment inequality models. We apply the approach to diagnostic procedures for COVID-19 detection, using CT chest scans evaluated by radiologists and AI algorithms. We cannot reject the hypothesis that the radiologists' assessments exhibit a dilation, thus showcasing a potential real-world instance of a dilation. We additionally illustrate the broader applicability of our methodology by rejecting the hypothesis that data-mining techniques for predicting the riskiness of credit card applications are non-informative in the sense of dilation.
+**Abstract**: Dilation (Seidenfeld and Wasserman 1993) occurs when conditioning on new information _only_ increases uncertainty regardless of what the information reveals. This paper shows that following established clinical guidance can induce dilation, even for diagnostic tests that meet conventional performance benchmarks. We characterize when a test is dilation-inducing and show that a ubiquitous feature of performance studies -- evaluating tests against an imperfect reference -- creates scope for dilation. To facilitate detection before clinical use and inform regulatory standards, we develop a finite-sample valid hypothesis test of the null that a diagnostic test is dilation-inducing in this context. Applying the method to an influential study that recommended chest CT scans for COVID-19 detection and contributed to their clinical adoption, we find that the data are consistent with dilation.
